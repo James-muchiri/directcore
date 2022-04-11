@@ -19,6 +19,24 @@
 </div>
 
 
+<div class="template-home-wrapper">
+
+    <div class="page-content-home-page">										
+                                <div data-elementor-type="wp-page" data-elementor-id="1019" class="elementor elementor-1019" data-elementor-settings="[]">
+                        <div class="elementor-inner">
+                            <div class="elementor-section-wrap">
+                            <section class="elementor-section elementor-top-section elementor-element elementor-element-b902da6 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b902da6" data-element_type="section">
+                        <div class="elementor-container elementor-column-gap-no">
+                            <div class="elementor-row">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-be0b6cf" data-id="be0b6cf" data-element_type="column">
+            <div class="elementor-column-wrap">
+                            <div class="elementor-widget-wrap">
+                                </div>
+                    </div>
+        </div>
+                                </div>
+                    </div>
+        </section>
 
 <section class="elementor-section elementor-top-section elementor-element elementor-element-dbeac36 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dbeac36" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
     <div class="elementor-container elementor-column-gap-default">
@@ -578,5 +596,12 @@
 </section>
 
 
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
 
 @stop

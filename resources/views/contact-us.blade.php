@@ -118,7 +118,7 @@
                                             Our Phone:					</span>
                                     </h3>
                                                         <p class="elementor-icon-box-description">
-                                                            +254 20 232 55 99					</p>
+                                                            0730 320 000					</p>
                                                 </div>
                             </div>
                                     </div>

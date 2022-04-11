@@ -12,7 +12,7 @@
                     <h2>   Our Services</h2>
                 </div>
                                     <div class="breadcumb-inner">
-                    <ul><li><a href="/">Home</a></li><li><i class="fa fa-angle-right"></i></li><li>Hardware Solution</li></ul>					</div>
+                    <ul><li><a href="/">Home</a></li><li><i class="fa fa-angle-right"></i></li><li>Software Solution</li></ul>					</div>
             </div>
         </div>
     </div>

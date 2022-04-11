@@ -162,6 +162,7 @@
     <!--==========================
     Footer hh
   ============================-->
+  @include('layouts.callus')
   @include('layouts.partners')
   @include('layouts.footer')
    

@@ -8,7 +8,7 @@
                     <h2>   Our Services</h2>
                 </div>
                                     <div class="breadcumb-inner">
-                    <ul><li><a href="https://wp.dreamitsolution.net/itsoft-elementor/">Home</a></li><li><i class="fa fa-angle-right"></i></li><li>Our Services</li></ul>					</div>
+                    <ul><li><a href="https://wp.dreamitsolution.net/itsoft-elementor/">Home</a></li><li><i class="fa fa-angle-right"></i></li><li>Our Solutions</li></ul>					</div>
             </div>
         </div>
     </div>
@@ -47,7 +47,7 @@
 
 			<div class="section-title t_center">
 				
-				<h5>// OUR SERVICES</h5>
+				<h5>// OUR Solutions</h5>
 				
 				<div class="title">
 				    <h3>What We Provide</h3>
@@ -73,7 +73,7 @@
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-35209d4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="35209d4" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b6b2e84" data-id="b6b2e84" data-element_type="column">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b6b2e84" data-id="b6b2e84" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-55d353a elementor-widget elementor-widget-service" data-id="55d353a" data-element_type="widget" data-widget_type="service.default">
@@ -84,16 +84,16 @@
 			<div class="service-box service-style-two">
 
 								<div class="service-box-icon">
-					<i aria-hidden="true" class="fa fa-stopwatch"></i>				</div>
+					<i aria-hidden="true" class="fa fa-shield"></i>				</div>
 				
 				<div class="service-box-content">
 
 					<div class="service-box-title">
-						<h2>UX/UI Design</h2>
+						<h2>Hardware Solutions</h2>
 					</div>
 
 					<div class="service-box-desc">
-						<p>Nullam tincidunt augue eget densis volu tpat, vitae ultri ces lectus and posuere. Duis urna lacus.</p>
+						<p>At Directcore Technologies, we intimately understand the value of robust, scalable, cost efficient and reliable IT and telecoms hardware products.</p>
 					</div>
 
 										<div class="service-btn">
@@ -116,16 +116,16 @@
 			<div class="service-box service-style-two">
 
 								<div class="service-box-icon">
-					<i aria-hidden="true" class="fa fa-android"></i>				</div>
+					<i aria-hidden="true" class="fa fa-terminal"></i>				</div>
 				
 				<div class="service-box-content">
 
 					<div class="service-box-title">
-						<h2>UX/UI Design</h2>
+						<h2>Software Solutions</h2>
 					</div>
 
 					<div class="service-box-desc">
-						<p>Nullam tincidunt augue eget densis volu tpat, vitae ultri ces lectus and posuere. Duis urna lacus.</p>
+						<p>We partner with major value add distributors and equipment vendors both locally and globally to ensure that our customers enjoy variety, value for their investment and best support and warranty.</p>
 					</div>
 
 										<div class="service-btn">
@@ -143,7 +143,7 @@
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5ca7bb7" data-id="5ca7bb7" data-element_type="column">
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5ca7bb7" data-id="5ca7bb7" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-70a1d2f elementor-widget elementor-widget-service" data-id="70a1d2f" data-element_type="widget" data-widget_type="service.default">
@@ -154,16 +154,18 @@
 			<div class="service-box service-style-two">
 
 								<div class="service-box-icon">
-					<i aria-hidden="true" class="fa fa-bar-chart"></i>				</div>
+					<i aria-hidden="true" class="fa fa-server"></i>				</div>
 				
 				<div class="service-box-content">
 
 					<div class="service-box-title">
-						<h2>Web Developments</h2>
+						<h2>Mobile Solutions</h2>
 					</div>
 
 					<div class="service-box-desc">
-						<p>Nullam tincidunt augue eget densis volu tpat, vitae ultri ces lectus and posuere. Duis urna lacus.</p>
+						<p>We develop bespoke mobile solutions and have developed mobile banking solutions in addition to providing Mobile Value Add Services (Mobile VAS)
+
+						</p>
 					</div>
 
 										<div class="service-btn">
@@ -186,16 +188,16 @@
 			<div class="service-box service-style-two">
 
 								<div class="service-box-icon">
-					<i aria-hidden="true" class="fa fa-bar-chart"></i>				</div>
+					<i aria-hidden="true" class="fa fa-mobile"></i>				</div>
 				
 				<div class="service-box-content">
 
 					<div class="service-box-title">
-						<h2>Web Developments</h2>
+						<h2>IT Infrastructure</h2>
 					</div>
 
 					<div class="service-box-desc">
-						<p>Nullam tincidunt augue eget densis volu tpat, vitae ultri ces lectus and posuere. Duis urna lacus.</p>
+						<p>Directcore Technologies understands the criticality of business communication and collaboration infrastructure both in terms of business productivity and client confidence.</p>
 					</div>
 
 										<div class="service-btn">
@@ -213,76 +215,7 @@
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-73656eb" data-id="73656eb" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-9ca0d33 elementor-widget elementor-widget-service" data-id="9ca0d33" data-element_type="widget" data-widget_type="service.default">
-				<div class="elementor-widget-container">
 			
-		
-
-			<div class="service-box service-style-two">
-
-								<div class="service-box-icon">
-					<i aria-hidden="true" class="fa fa-bar-chart"></i>				</div>
-				
-				<div class="service-box-content">
-
-					<div class="service-box-title">
-						<h2>QA &amp; Testing</h2>
-					</div>
-
-					<div class="service-box-desc">
-						<p>Nullam tincidunt augue eget densis volu tpat, vitae ultri ces lectus and posuere. Duis urna lacus.</p>
-					</div>
-
-										<div class="service-btn">
-						<a href="">
-														<i class="fa fa-angle-right solid"></i>
-						</a>
-					</div><!-- .service-btn	-->
-					
-				</div><!-- .service-box-content -->
-			</div><!-- .service-box .service-style-two -->
-
-
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-39db713 elementor-widget elementor-widget-service" data-id="39db713" data-element_type="widget" data-widget_type="service.default">
-				<div class="elementor-widget-container">
-			
-		
-
-			<div class="service-box service-style-two">
-
-								<div class="service-box-icon">
-					<i aria-hidden="true" class="fa fa-bar-chart"></i>				</div>
-				
-				<div class="service-box-content">
-
-					<div class="service-box-title">
-						<h2>QA &amp; Testing</h2>
-					</div>
-
-					<div class="service-box-desc">
-						<p>Nullam tincidunt augue eget densis volu tpat, vitae ultri ces lectus and posuere. Duis urna lacus.</p>
-					</div>
-
-										<div class="service-btn">
-						<a href="">
-														<i class="fa fa-angle-right solid"></i>
-						</a>
-					</div><!-- .service-btn	-->
-					
-				</div><!-- .service-box-content -->
-			</div><!-- .service-box .service-style-two -->
-
-
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
 								</div>
 					</div>
 		</section>
