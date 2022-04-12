@@ -2,17 +2,40 @@
 
 @section('content')
 
-
+<style>
+    .itsoft_menu > ul > li > a {
+    display: block;
+    margin: 35px 16px;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+    position: relative;
+    color: #ffffff;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+}
+</style>
 
 <div class="breadcumb-area">
     <div class="container">				
         <div class="row">
             <div class="col-md-12 txtc  text-center ccase">
                                     <div class="brpt">
-                    <h2>   Our Services</h2>
+                    <h2>   Our Solutions</h2>
                 </div>
                                     <div class="breadcumb-inner">
-                    <ul><li><a href="/">Home</a></li><li><i class="fa fa-angle-right"></i></li><li>Hardware Solution</li></ul>					</div>
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><i class="fa fa-angle-right"></i></li>
+                   
+                        <li><a href="/solutions"> Our Solutions </a></li>
+                        <li><i class="fa fa-angle-right"></i></li>
+                        <li>Hardware Solution</li>
+                    
+                    </ul>				
+                	</div>
             </div>
         </div>
     </div>

@@ -15,7 +15,11 @@ class PageController extends Controller
         return view('products');
     }
 
-   
+    public function faqs()
+    {
+        return view('faqs');
+    }
+
 
     public function contacts_us()
     {
@@ -54,4 +58,6 @@ class PageController extends Controller
         return view('solutions.mobile-solutions');
 
     }
+
+
 }

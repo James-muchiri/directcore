@@ -2,23 +2,64 @@
 
 @section('content')
 
-
+<style>
+    .itsoft_menu > ul > li > a {
+    display: block;
+    margin: 35px 16px;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+    position: relative;
+    color: #ffffff;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+}
+</style>
 
 <div class="breadcumb-area">
     <div class="container">				
         <div class="row">
             <div class="col-md-12 txtc  text-center ccase">
                                     <div class="brpt">
-                    <h2>   Our Services</h2>
+                    <h2>   Our Solutions</h2>
                 </div>
                                     <div class="breadcumb-inner">
-                    <ul><li><a href="/">Home</a></li><li><i class="fa fa-angle-right"></i></li><li>Hardware Solution</li></ul>					</div>
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><i class="fa fa-angle-right"></i></li>
+                   
+                        <li><a href="/solutions"> Our Solutions </a></li>
+                        <li><i class="fa fa-angle-right"></i></li>
+                        <li>Mobile Solution</li>
+                    
+                    </ul>				
+                	</div>
             </div>
         </div>
     </div>
 </div>
 
 
+<div class="template-home-wrapper">
+
+    <div class="page-content-home-page">										
+                                <div data-elementor-type="wp-page" data-elementor-id="1019" class="elementor elementor-1019" data-elementor-settings="[]">
+                        <div class="elementor-inner">
+                            <div class="elementor-section-wrap">
+                            <section class="elementor-section elementor-top-section elementor-element elementor-element-b902da6 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b902da6" data-element_type="section">
+                        <div class="elementor-container elementor-column-gap-no">
+                            <div class="elementor-row">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-be0b6cf" data-id="be0b6cf" data-element_type="column">
+            <div class="elementor-column-wrap">
+                            <div class="elementor-widget-wrap">
+                                </div>
+                    </div>
+        </div>
+                                </div>
+                    </div>
+        </section>
 
 <section class="elementor-section elementor-top-section elementor-element elementor-element-dbeac36 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dbeac36" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
     <div class="elementor-container elementor-column-gap-default">
@@ -578,5 +619,12 @@
 </section>
 
 
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
 
 @stop

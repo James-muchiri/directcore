@@ -2,23 +2,64 @@
 
 @section('content')
 
-
+<style>
+    .itsoft_menu > ul > li > a {
+    display: block;
+    margin: 35px 16px;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+    position: relative;
+    color: #ffffff;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+}
+</style>
 
 <div class="breadcumb-area">
     <div class="container">				
         <div class="row">
             <div class="col-md-12 txtc  text-center ccase">
                                     <div class="brpt">
-                    <h2>   Our Services</h2>
+                    <h2>   Our Solutions</h2>
                 </div>
                                     <div class="breadcumb-inner">
-                    <ul><li><a href="/">Home</a></li><li><i class="fa fa-angle-right"></i></li><li>Software Solution</li></ul>					</div>
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><i class="fa fa-angle-right"></i></li>
+                   
+                        <li><a href="/solutions"> Our Solutions </a></li>
+                        <li><i class="fa fa-angle-right"></i></li>
+                        <li>Sodftware Solution</li>
+                    
+                    </ul>				
+                	</div>
             </div>
         </div>
     </div>
 </div>
 
 
+<div class="template-home-wrapper">
+
+    <div class="page-content-home-page">										
+                                <div data-elementor-type="wp-page" data-elementor-id="1019" class="elementor elementor-1019" data-elementor-settings="[]">
+                        <div class="elementor-inner">
+                            <div class="elementor-section-wrap">
+                            <section class="elementor-section elementor-top-section elementor-element elementor-element-b902da6 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b902da6" data-element_type="section">
+                        <div class="elementor-container elementor-column-gap-no">
+                            <div class="elementor-row">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-be0b6cf" data-id="be0b6cf" data-element_type="column">
+            <div class="elementor-column-wrap">
+                            <div class="elementor-widget-wrap">
+                                </div>
+                    </div>
+        </div>
+                                </div>
+                    </div>
+        </section>
 
 <section class="elementor-section elementor-top-section elementor-element elementor-element-dbeac36 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dbeac36" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
     <div class="elementor-container elementor-column-gap-default">
@@ -42,7 +83,7 @@
 
 
 <div class="title">
-<h3>Hardware Solutions</h3>
+<h3>Software Solutions</h3>
 <h2><span></span></h2>
 </div>
 
@@ -52,9 +93,11 @@
 </div>
             
 
-<p>At Directcore Technologies, we intimately understand the value of robust, scalable, cost efficient and reliable IT and telecoms hardware products.
-    We provide end-to-end supply chain solutions for IT & Telecoms value equipment.<br>
-    We partner with major value add distributors and equipment vendors both locally and globally to ensure that our customers enjoy variety, value for their investment and best support and warranty.</p>
+<p>
+    Today, businessesrequire affordable technology that improves their business performance, boosts sales & services, and helps in assessing financial strengths & making business decisions that deliver real results.
+Directcore Technologies specialize in supply and customization of software solutions that addressesSales, Services, Finance, Operations, Talent, Marketing, Collaboration and Analyticsrequirements for Small, Medium and Large Enterprises
+
+</p>
 
 
 </div>	
@@ -74,37 +117,37 @@
                     
                                                                                                                                                                 
                 
-                        <li class="active in"><a data-toggle="pill" href="#tab-995"><i class="fa fa-globe"></i>Computing Solutions</a></li>
+                        <li class="active in"><a data-toggle="pill" href="#tab-995"><i class="fa fa-globe"></i>ERP & CRM Systems</a></li>
                                                 
                         
                     
                                                                                                                                                                 
                 
-                        <li><a data-toggle="pill" href="#tab-994"><i class="fa fa-globe"></i>UCC Solutions</a></li>
+                        <li><a data-toggle="pill" href="#tab-994"><i class="fa fa-globe"></i>Leverage our partnerships</a></li>
                                                 
                         
                     
                                                                                                                                                                 
                 
-                        <li><a data-toggle="pill" href="#tab-993"><i class="fa fa-globe"></i>Networking Solutions</a></li>
+                        <li><a data-toggle="pill" href="#tab-993"><i class="fa fa-globe"></i>Business Collaboration Systems</a></li>
                                                 
                         
                     
                                                                                                                                                                 
                 
-                        <li><a data-toggle="pill" href="#tab-992"><i class="fa fa-globe"></i>Power Solutions</a></li>
+                        <li><a data-toggle="pill" href="#tab-992"><i class="fa fa-globe"></i>BI & Analytic Systems</a></li>
                                                 
                         
                     
                                                                                                                                                                 
                 
-                        <li><a data-toggle="pill" href="#tab-991"><i class="fa fa-globe"></i>Storage Solution</a></li>
+                        <li><a data-toggle="pill" href="#tab-991"><i class="fa fa-globe"></i>Database Management Systems</a></li>
                                                 
                         
                     
                                                                                                                                                                 
                 
-                        <li><a data-toggle="pill" href="#tab-989"><i class="fa fa-globe"></i>Security Solutions</a></li>
+                        <li><a data-toggle="pill" href="#tab-989"><i class="fa fa-globe"></i>Operating Systems & Applications</a></li>
                                                 
                         
                     
@@ -127,7 +170,7 @@
                 
                 <div class="col-md-6">	
                     <div class="tab_pan_content">
-                        <h2>Computing Solutions</h2>
+                        <h2>ERP & CRM Systems</h2>
                         <div class="tab-description">
 <p>We’re available for 8 hours a day! Contact to require a detailed analysis and assessment of your plan.</p>
 <section class="elementor-section elementor-inner-section elementor-element elementor-element-d77e5e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d77e5e3" data-element_type="section">
@@ -203,7 +246,7 @@
                 
                 <div class="col-md-6">	
                     <div class="tab_pan_content">
-                        <h2>Unified Communication and Collaboration (UCC) Solutions</h2>
+                        <h2>Leverage our partnerships</h2>
                         <div class="tab-description">
 <p>We’re available for 8 hours a day!
     Contact to require a detailed analysis and assessment of your plan.</p>
@@ -272,7 +315,7 @@
                 
                 <div class="col-md-6">	
                     <div class="tab_pan_content">
-                        <h2>Networking Solutions</h2>
+                        <h2>Business Collaboration Systems</h2>
                         <div class="tab-description">
 
                             <p>We’re available for 8 hours a day!
@@ -341,7 +384,7 @@
                 
                 <div class="col-md-6">	
                     <div class="tab_pan_content">
-                        <h2>Power Solutions</h2>
+                        <h2>BI & Analytic Systems</h2>
                         <div class="tab-description">
                             <p>We’re available for 8 hours a day!
                                 Contact to require a detailed analysis and assessment of your plan.</p>
@@ -401,7 +444,7 @@
                 
                 <div class="col-md-6">	
                     <div class="tab_pan_content">
-                        <h2>Storage Solutions</h2>
+                        <h2>Database Management Systems</h2>
                         <div class="tab-description">
                             <p>We’re available for 8 hours a day!
                                 Contact to require a detailed analysis and assessment of your plan.</p>
@@ -463,7 +506,7 @@
                 
                 <div class="col-md-6">	
                     <div class="tab_pan_content">
-                        <h2>Security Solutions</h2>
+                        <h2>Operating Systems & Applications</h2>
                         <div class="tab-description">
                             <p>We’re available for 8 hours a day!
                                 Contact to require a detailed analysis and assessment of your plan.</p>
@@ -578,5 +621,12 @@
 </section>
 
 
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
 
 @stop

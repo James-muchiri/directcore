@@ -74,7 +74,7 @@
               <ul class="sub-menu">
                   <li id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1476"><a href="/about-us">About Us</a></li>
                   <li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="/about-us#why-choose-us">Why Choose Us</a></li>
-                  <li id="menu-item-1478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1478"><a href="https://wp.dreamitsolution.net/itsoft-elementor/faq/">Faq</a></li>
+                  <li id="menu-item-1478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1478"><a href="/FAQS">Faq</a></li>
 
               </ul>
               </li>

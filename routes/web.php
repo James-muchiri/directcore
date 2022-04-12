@@ -25,10 +25,11 @@ Route::get('/products','PageController@products');
 Route::get('/','PageController@index');
 Route::get('/contact_us','PageController@contacts_us');
 Route::get('/about-us','PageController@about_us');
-
+Route::get('/FAQS','PageController@faqs');
 
 
 //solutions
+Route::get('/products','PageController@products');
 Route::get('/solutions','PageController@solutions');
 Route::get('/software-solutions','PageController@software_solutions');
 Route::get('/hardware-solutions','PageController@hardware_solutions');

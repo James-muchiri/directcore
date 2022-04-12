@@ -1,16 +1,30 @@
 @extends('layouts.index')
 @section('content')
-
+<style>
+    .itsoft_menu > ul > li > a {
+    display: block;
+    margin: 35px 16px;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+    position: relative;
+    color: #ffffff;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+}
+</style>
 
         <div class="breadcumb-area">
-            <div class="container">				
+            <div class="container">
                 <div class="row">
                     <div class="col-md-12 txtc  text-center ccase">
                                             <div class="brpt">
                             <h2>   About Us</h2>
                         </div>
                                             <div class="breadcumb-inner">
-                            <ul><li><a href="/">Home</a></li><li><i class="fa fa-angle-right"></i></li><li>About Us</li></ul>	
+                            <ul><li><a href="/">Home</a></li><li><i class="fa fa-angle-right"></i></li><li>About Us</li></ul>
                                         </div>
                     </div>
                 </div>
@@ -24,7 +38,7 @@
 
         <div class="template-home-wrapper">
 
-            <div class="page-content-home-page">										
+            <div class="page-content-home-page">
                                         <div data-elementor-type="wp-page" data-elementor-id="1019" class="elementor elementor-1019" data-elementor-settings="[]">
                                 <div class="elementor-inner">
                                     <div class="elementor-section-wrap">
@@ -66,32 +80,32 @@
                                     <div class="elementor-widget-wrap">
                                 <div class="elementor-element elementor-element-cc4cee1 elementor-widget elementor-widget-sectiontitle" data-id="cc4cee1" data-element_type="widget" data-widget_type="sectiontitle.default">
                         <div class="elementor-widget-container">
-                    
+
                         <div class="">
-        
+
                     <div class="section-title t_left">
-                        
+
                         <h5>// About Company</h5>
-                        
+
                         <div class="title">
                             <h3>We deal with the aspects of</h3>
                             <h2>professional  <span>IT Services</span></h2>
                         </div>
-                        
-                                    
+
+
                         <div class="bar-main">
                             <div class="bar bar-big"></div>
                         </div>
-                                        
-        
-                        <p>ITSoft is the partner of choice for many of the world’s leading and enterprises, SMEs and technology challengers. We help businesses elevate their value through custom software development.</p>
-        
-                        
-                    </div>	
-        
+
+
+                        <p>Directcore Technologies is an end-to-end Integrated IT solutions provider specializing in IT & Telecoms products, solutions and services cutting across various market verticals in Africa. Our Management Team have 30+ years of consolidated experience in IT and Telecommunications and are uniquely equipped to provide innovative solutions to ICT problems in Africa.</p>
+
+
+                    </div>
+
                 </div>
-        
-                
+
+
                         </div>
                         </div>
                         <div class="elementor-element elementor-element-3a4386b elementor-tabs-view-horizontal elementor-widget elementor-widget-tabs" data-id="3a4386b" data-element_type="widget" data-widget_type="tabs.default">
@@ -100,35 +114,39 @@
                     <div class="elementor-tabs-wrapper" role="tablist">
                                             <div id="elementor-tab-title-6101" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="1" role="tab" tabindex="-1" aria-controls="elementor-tab-content-6101" aria-expanded="false"><a href="">Our Mission</a></div>
                                             <div id="elementor-tab-title-6102" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-6102" aria-expanded="false"><a href="">Our Value</a></div>
-                                            <div id="elementor-tab-title-6103" class="elementor-tab-title elementor-tab-desktop-title elementor-active" aria-selected="true" data-tab="3" role="tab" tabindex="0" aria-controls="elementor-tab-content-6103" aria-expanded="true"><a href="">Our Mission</a></div>
+                                            <div id="elementor-tab-title-6103" class="elementor-tab-title elementor-tab-desktop-title elementor-active" aria-selected="true" data-tab="3" role="tab" tabindex="0" aria-controls="elementor-tab-content-6103" aria-expanded="true"><a href="">Core Values</a></div>
                                     </div>
                     <div class="elementor-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
                                             <div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="1" role="tab" tabindex="-1" aria-controls="elementor-tab-content-6101" aria-expanded="false">Our Mission</div>
-                            <div id="elementor-tab-content-6101" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-6101" tabindex="0" style="display: none;" hidden="hidden"><p>Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna aliqua enim ad minim veniam quis nostre exercitation ulac laboris aliquip ex ea commodo consequat duis aute irure.dolor in repre henderit in voluptate</p>
-        <div class="about-list">
+                            <div id="elementor-tab-content-6101" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-6101" tabindex="0" style="display: none;" hidden="hidden">
+                                <p>
+                                    To provide innovative, secure and scalable ICT products, solutions and services that meet our customers' current and future needs using professional teams and partners, and providing exponential growth for all stakeholders
+                                </p>
+        {{-- <div class="about-list">
         <ul>
         <li>consectetur elit sed do eius</li>
         <li>consectetur elit sed</li>
         <li>consectetur elit sed do</li>
         </ul>
-        </div>
+        </div> --}}
         <div class="itsoft-custom-buttons one">
                         <div class="itsoft-button"><a href="#">Discover More<i class="fa fa-angle-right"></i></a></div>		</div></div>
                                             <div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-6102" aria-expanded="false">Our Value</div>
-                            <div id="elementor-tab-content-6102" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-6102" tabindex="0" style="display: none;" hidden="hidden"><p>Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna aliqua enim ad minim veniam quis nostre exercitation ulac laboris aliquip ex ea commodo consequat duis aute irure.dolor in repre henderit in voluptate</p>
-        <p>Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna aliqua enim ad minim</p>
+                            <div id="elementor-tab-content-6102" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-6102" tabindex="0" style="display: none;" hidden="hidden">
+        <p> To be the preferred IT & Telecoms solutions provider in Africa.</p>
         <div class="itsoft-custom-buttons one">
         <div class="itsoft-button"><a href="#">Discover More<i class="fa fa-angle-right"></i></a></div>
         </div></div>
-                                            <div class="elementor-tab-title elementor-tab-mobile-title elementor-active" aria-selected="true" data-tab="3" role="tab" tabindex="0" aria-controls="elementor-tab-content-6103" aria-expanded="true">Our Mission</div>
-                            <div id="elementor-tab-content-6103" class="elementor-tab-content elementor-clearfix elementor-active" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-6103" tabindex="0" style="display: block;"><p>Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna aliqua enim ad minim veniam quis nostre exercitation ulac laboris aliquip ex ea commodo consequat duis aute irure.dolor in repre henderit in voluptate</p>
-        <div class="about-list">
+                                            <div class="elementor-tab-title elementor-tab-mobile-title elementor-active" aria-selected="true" data-tab="3" role="tab" tabindex="0" aria-controls="elementor-tab-content-6103" aria-expanded="true">Core Values</div>
+                            <div id="elementor-tab-content-6103" class="elementor-tab-content elementor-clearfix elementor-active" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-6103" tabindex="0" style="display: block;">
+                                <p>At Directcore Technologies we; Perform our duties with Excellence, Act with Integrity and Fairness in all our business transactions and Set Exemplary Leadership in our work and business engagements.</p>
+        {{-- <div class="about-list">
         <ul>
         <li>consectetur elit sed do eius</li>
         <li>consectetur elit sed</li>
         <li>consectetur elit sed do</li>
         </ul>
-        </div>
+        </div> --}}
         <div class="itsoft-custom-buttons one">
                         <div class="itsoft-button"><a href="#">Discover More<i class="fa fa-angle-right"></i></a></div>		</div></div>
                                     </div>
@@ -147,7 +165,7 @@
                                         </div>
                             </div>
                 </section>
-                
+
                         <section class="elementor-section elementor-top-section elementor-element elementor-element-4b8164d elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4b8164d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                     <div class="elementor-background-overlay"></div>
                                     <div class="elementor-container elementor-column-gap-default">
@@ -157,18 +175,18 @@
                                     <div class="elementor-widget-wrap">
                                 <div class="elementor-element elementor-element-baf7438 elementor-widget elementor-widget-calltoaction" data-id="baf7438" data-element_type="widget" data-widget_type="calltoaction.default">
                         <div class="elementor-widget-container">
-                    
+
                 <div class="call-to-action">
                     <div class="call-to-video">
-        
+
                                             <div class="call-video-link">
-        
+
                                 <a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="#"><i class="fas fa-pause-circle fa-solid"></i></a>
-        
+
                             </div>
-                        
+
                     </div>
-        
+
                     <div class="single_call-to-action_text">
                         <div class="call-to-action_top_text">
                             <div class="call-to-action-title">
@@ -176,18 +194,18 @@
                                 <h2>We Deliver Solution with the Goal of<br>A Trusting Relationships</h2>
                             </div>
                         </div>
-                        <div class="call-to-action-inner">				
+                        <div class="call-to-action-inner">
                             <div class="call-to-action-desc">
                                 <p>Appropriate for your specific business, making it easy for you to have quality IT services.</p>
-                            </div>						
+                            </div>
                         </div>
-        
+
                                         <div class="call-to-action-btn">
                             <a href="">Watch More</a>
                         </div>
                                     </div>
                 </div>
-        
+
                         </div>
                         </div>
                                 </div>
@@ -211,38 +229,38 @@
                                     <div class="elementor-widget-wrap">
                                 <div class="elementor-element elementor-element-18e4f78 elementor-widget elementor-widget-sectiontitle" data-id="18e4f78" data-element_type="widget" data-widget_type="sectiontitle.default">
                         <div class="elementor-widget-container">
-                    
+
                         <div class="">
-        
+
                     <div class="section-title t_center">
-                        
+
                         <h5>// OUR EXPERIENCE</h5>
-                        
+
                         <div class="title">
                             <h3>25 Years Of Experience With</h3>
                             <h2>IT Solution <span>Services</span></h2>
                         </div>
-                        
-                                    
+
+
                         <div class="bar-main">
                             <div class="bar bar-big"></div>
                         </div>
-                                        
-        
+
+
                         <p></p>
-        
-                        
-                    </div>	
-        
+
+
+                    </div>
+
                 </div>
-        
-                
+
+
                         </div>
                         </div>
                         <div class="elementor-element elementor-element-b605e14 elementor-widget elementor-widget-progress" data-id="b605e14" data-element_type="widget" data-widget_type="progress.default">
                         <div class="elementor-widget-container">
                                 <span class="elementor-title">App Development</span>
-                
+
                 <div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="90" aria-valuetext="">
                     <div class="elementor-progress-bar" data-max="90" style="width: 90%;">
                         <span class="elementor-progress-text"></span>
@@ -254,7 +272,7 @@
                         <div class="elementor-element elementor-element-0629acd elementor-widget elementor-widget-progress" data-id="0629acd" data-element_type="widget" data-widget_type="progress.default">
                         <div class="elementor-widget-container">
                                 <span class="elementor-title">UI/UX Design</span>
-                
+
                 <div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80" aria-valuetext="">
                     <div class="elementor-progress-bar" data-max="80" style="width: 80%;">
                         <span class="elementor-progress-text"></span>
@@ -266,7 +284,7 @@
                         <div class="elementor-element elementor-element-7b53bb4 elementor-widget elementor-widget-progress" data-id="7b53bb4" data-element_type="widget" data-widget_type="progress.default">
                         <div class="elementor-widget-container">
                                 <span class="elementor-title">Web Developement</span>
-                
+
                 <div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="95" aria-valuetext="">
                     <div class="elementor-progress-bar" data-max="95" style="width: 95%;">
                         <span class="elementor-progress-text"></span>
@@ -295,32 +313,33 @@
                         <div class="elementor-widget-wrap">
                     <div class="elementor-element elementor-element-a6c07e1 elementor-widget elementor-widget-sectiontitle" data-id="a6c07e1" data-element_type="widget" data-widget_type="sectiontitle.default">
             <div class="elementor-widget-container">
-        
+
             <div class="">
 
         <div class="section-title t_center">
-            
+
             <h5>WHY CHOOSE US</h5>
-            
+
             <div class="title">
-                <h3>Few Reasons Why You</h3>
-                <h2>Should <span>Choose Us</span></h2>
+                <h3>We excel in delivering
+                    </h3>
+                <h2>optimal solutions</span></h2>
             </div>
-            
-                        
+
+
             <div class="bar-main">
                 <div class="bar bar-big"></div>
             </div>
-                            
+
 
             <p></p>
 
-            
-        </div>	
+
+        </div>
 
     </div>
 
-    
+
             </div>
             </div>
             <section id="why-choose-us" class="elementor-section elementor-inner-section elementor-element elementor-element-762510c elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="762510c" data-element_type="section">
@@ -339,10 +358,10 @@
                     <div class="elementor-icon-box-content">
             <h3 class="elementor-icon-box-title">
                 <span>
-                    Product Designs					</span>
+                    Warranty Management IT				</span>
             </h3>
                                 <p class="elementor-icon-box-description">
-                    Web designing in a powerful way of just not an only as professions for you.					</p>
+                                    Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management.					</p>
                         </div>
     </div>
             </div>
@@ -357,10 +376,10 @@
                     <div class="elementor-icon-box-content">
             <h3 class="elementor-icon-box-title">
                 <span>
-                    Big Data &amp; Analytics					</span>
+                    Quality Control System				</span>
             </h3>
                                 <p class="elementor-icon-box-description">
-                    Web designing in a powerful way of just not an only as professions for you.					</p>
+                                    It's more than a responsibility but a guarantee from us to gain customer trust with highly reliable quality control system.				</p>
                         </div>
     </div>
             </div>
@@ -393,10 +412,10 @@
                     <div class="elementor-icon-box-content">
             <h3 class="elementor-icon-box-title">
                 <span>
-                    Maintain App Data					</span>
+                    Highly Professional Staffs					</span>
             </h3>
                                 <p class="elementor-icon-box-description">
-                    Web designing in a powerful way of just not an only as professions for you.					</p>
+                                    Having obtained the official & formal training in IT technology and technical fields, our staffs know more than what they show.				</p>
                         </div>
     </div>
             </div>
@@ -411,10 +430,10 @@
                     <div class="elementor-icon-box-content">
             <h3 class="elementor-icon-box-title">
                 <span>
-                    Dedicated IT Solution					</span>
+                    Product Engineering & Services					</span>
             </h3>
                                 <p class="elementor-icon-box-description">
-                    Web designing in a powerful way of just not an only as professions for you.					</p>
+                    Develop and propose product improvements through periodical and accurate testing, repairing & refining every version.				</p>
                         </div>
     </div>
             </div>
@@ -493,7 +512,7 @@
                 <a href="#">
                                                         <i class="fa fa-angle-right "></i>
                 </a>
-            </div><!-- .service-btn	-->							
+            </div><!-- .service-btn	-->
         </div>
     </div><!-- .service-box .service-style-two -->
                         <div class="service-box service-style-two">
@@ -516,7 +535,7 @@
                 <a href="#">
                                                         <i class="fa fa-angle-right "></i>
                 </a>
-            </div><!-- .service-btn	-->							
+            </div><!-- .service-btn	-->
         </div>
     </div><!-- .service-box .service-style-two -->
                         <div class="service-box service-style-two">
@@ -539,7 +558,7 @@
                 <a href="#">
                                                         <i class="fa fa-angle-right "></i>
                 </a>
-            </div><!-- .service-btn	-->							
+            </div><!-- .service-btn	-->
         </div>
     </div><!-- .service-box .service-style-two -->
                         <div class="service-box service-style-two">
@@ -562,7 +581,7 @@
                 <a href="#">
                                                         <i class="fa fa-angle-right "></i>
                 </a>
-            </div><!-- .service-btn	-->							
+            </div><!-- .service-btn	-->
         </div>
     </div><!-- .service-box .service-style-two -->
                     </section>
@@ -592,8 +611,8 @@ jQuery(document).ready(function() {
                         slidesToShow: 2,
                     }
                 },
-                
-                
+
+
                 {
                     breakpoint: 991,
                     settings: {
@@ -655,32 +674,32 @@ jQuery(document).ready(function() {
                                     <div class="elementor-widget-wrap">
                                 <div class="elementor-element elementor-element-5380434 elementor-widget elementor-widget-sectiontitle" data-id="5380434" data-element_type="widget" data-widget_type="sectiontitle.default">
                         <div class="elementor-widget-container">
-                    
+
                         <div class="">
-        
+
                     <div class="section-title t_left">
-                        
+
                         <h5>Fun Fact</h5>
-                        
+
                         <div class="title">
                             <h3>See Our Achievement</h3>
                             <h2><span></span></h2>
                         </div>
-                        
-                                    
+
+
                         <div class="bar-main">
                             <div class="bar bar-big"></div>
                         </div>
-                                        
-        
+
+
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        
-                        
-                    </div>	
-        
+
+
+                    </div>
+
                 </div>
-        
-                
+
+
                         </div>
                         </div>
                         <section class="elementor-section elementor-inner-section elementor-element elementor-element-cdf0b55 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cdf0b55" data-element_type="section">
@@ -692,21 +711,21 @@ jQuery(document).ready(function() {
                                 <div class="elementor-element elementor-element-1b125c9 elementor-widget elementor-widget-counter" data-id="1b125c9" data-element_type="widget" data-widget_type="counter.default">
                         <div class="elementor-widget-container">
                                 <div class="single_counter default_style text-left">
-                        <div class="single_counter_inner">					
-                            
-                                                <div class="counter_icon">			
-                                <i class=" "></i>		
+                        <div class="single_counter_inner">
+
+                                                <div class="counter_icon">
+                                <i class=" "></i>
                             </div>
-                                                
+
                             <div class="countr_text">
                                 <h1>1200</h1>
                                 <h3>+</h3>
                             </div>
-        
+
                             <div class="counter_title">
                                 <h4>Completed Project</h4>
-                            </div>	
-                            
+                            </div>
+
                         </div>
                     </div>
                         </div>
@@ -714,21 +733,21 @@ jQuery(document).ready(function() {
                         <div class="elementor-element elementor-element-f23d5ce elementor-widget elementor-widget-counter" data-id="f23d5ce" data-element_type="widget" data-widget_type="counter.default">
                         <div class="elementor-widget-container">
                                 <div class="single_counter default_style text-left">
-                        <div class="single_counter_inner">					
-                            
-                                                <div class="counter_icon">			
-                                <i class=" "></i>		
+                        <div class="single_counter_inner">
+
+                                                <div class="counter_icon">
+                                <i class=" "></i>
                             </div>
-                                                
+
                             <div class="countr_text">
                                 <h1>400</h1>
                                 <h3>+</h3>
                             </div>
-        
+
                             <div class="counter_title">
                                 <h4>Award Win</h4>
-                            </div>	
-                            
+                            </div>
+
                         </div>
                     </div>
                         </div>
@@ -742,21 +761,21 @@ jQuery(document).ready(function() {
                                 <div class="elementor-element elementor-element-4fa89a2 elementor-widget elementor-widget-counter" data-id="4fa89a2" data-element_type="widget" data-widget_type="counter.default">
                         <div class="elementor-widget-container">
                                 <div class="single_counter default_style text-left">
-                        <div class="single_counter_inner">					
-                            
-                                                <div class="counter_icon">			
-                                <i class=" "></i>		
+                        <div class="single_counter_inner">
+
+                                                <div class="counter_icon">
+                                <i class=" "></i>
                             </div>
-                                                
+
                             <div class="countr_text">
                                 <h1>1390</h1>
                                 <h3>+</h3>
                             </div>
-        
+
                             <div class="counter_title">
                                 <h4>Running Project</h4>
-                            </div>	
-                            
+                            </div>
+
                         </div>
                     </div>
                         </div>
@@ -764,21 +783,21 @@ jQuery(document).ready(function() {
                         <div class="elementor-element elementor-element-e4db6c0 elementor-widget elementor-widget-counter" data-id="e4db6c0" data-element_type="widget" data-widget_type="counter.default">
                         <div class="elementor-widget-container">
                                 <div class="single_counter default_style text-left">
-                        <div class="single_counter_inner">					
-                            
-                                                <div class="counter_icon">			
-                                <i class=" "></i>		
+                        <div class="single_counter_inner">
+
+                                                <div class="counter_icon">
+                                <i class=" "></i>
                             </div>
-                                                
+
                             <div class="countr_text">
                                 <h1>10</h1>
                                 <h3>K</h3>
                             </div>
-        
+
                             <div class="counter_title">
                                 <h4>Satisfied Customers</h4>
-                            </div>	
-                            
+                            </div>
+
                         </div>
                     </div>
                         </div>
@@ -802,17 +821,17 @@ jQuery(document).ready(function() {
                             </div>
                 </section>
 
-                
-                    
+
+
                                 </div>
                                 </div>
                             </div>
-                            
+
             </div>
-            
+
         </div>
 
 
-        
-        
+
+
 @stop

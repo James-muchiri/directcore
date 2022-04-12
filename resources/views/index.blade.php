@@ -3,7 +3,7 @@
 
 <div class="template-home-wrapper">
 
-	<div class="page-content-home-page">										
+	<div class="page-content-home-page">
 								<div data-elementor-type="wp-page" data-elementor-id="2088" class="elementor elementor-2088" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
@@ -18,13 +18,13 @@
                                         <div class="elementor-widget-wrap">
                                     <div class="elementor-element elementor-element-4b7af95 elementor-widget elementor-widget-slider" data-id="4b7af95" data-element_type="widget" data-widget_type="slider.default">
                             <div class="elementor-widget-container">
-                        
-                    
+
+
                     <section class="dreamit-slick-slider">
                         <div class="default-slider slick slick-initialized slick-slider">
-            
-                            
-                                                        
+
+
+
                                     <div class="slick-list draggable" style="padding: 0px;"><div class="slick-track" style="opacity: 1; width: 1585px; transform: translate3d(0px, 0px, 0px);"><div class="single-slick style-five align-items-center d-flex text-left slick-slide slick-current slick-active slick-center" data-slick-index="0" aria-hidden="false" tabindex="0" style="width: 1585px;">
                                         <div class="container">
                                             <div class="slide-img parallax-effect" style="background:url('{{asset('img/images/home.png')}}'); center center / cover scroll no-repeat;">
@@ -33,35 +33,37 @@
                                                 <div class="hero-text">
                                                     <div class="container">
                                                         <div class="white-color">
-                                                             <h4> Secure &amp; IT Services </h4>                                                  <h1 class="title1"> We Manage &amp; Maintain <br>All of your IT System </h1> 
+                                                             <h4> Secure &amp; IT Services </h4>                                                  <h1 class="title1"> We Manage &amp; Maintain <br>All of your IT System </h1>
                                                                 <p>
                                                                     We bring together deep industry expertise and the latest IT advancements to deliver
                                                                     custom solutions and products that perfectly fit the needs and behavior of their users.
                                                                     High service availability and timely change implementation. Flexible cooperation options and proactive approach.
-                                                                
+
                                             </p>
-            
+
                                                                                                                     <a class="btn btn-gradient btn-md btn-animated-none btn-one" href="#" target="_blank" tabindex="0">
                                                                         How IT Works                                                        <i class="flaticon-right-arrow-3"></i>
                                                                 </a>
-                                                                
-                                                                
+
+
                                                                                                             </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="slider-single-image">
-                                                <img src="{{ asset('img/images/header.png') }}" alt="">
+                                            <div class="slider-single-image" >
+                                                <img src="{{ asset('img/images/fintech.png') }}" alt="" style="border-radius: 50%;
+                                                height:600px;
+                                                ">
                                             </div>
                                         </div><!-- .container -->
-            
+
                                         <div class="slider-shape1 rotateme"><img src="{{ asset('img/images/circle-img.png') }}"  alt="01"></div>
                                         <div class="slider-shape2 rotateme"><img src="{{ asset('img/images/ractangle-img.png') }}"  alt="01"></div>
                                         <div class="slider-shape3"><img src="{{ asset('img/images/ractangle-img2.png') }}" alt="01"></div>
-            
+
                                     </div></div></div><!-- .single-slick -->
-                                    
-                                
+
+
                                         </div>
                     </section>
                         <script>
@@ -79,10 +81,10 @@
                                                         });
                             });
                         </script>
-            
-                    
-            
-            
+
+
+
+
                         </div>
                             </div>
                                     </div>
@@ -101,10 +103,10 @@
                                     <div class="elementor-widget-wrap">
                                 <div class="elementor-element elementor-element-359201a icon-left elementor-widget elementor-widget-feature" data-id="359201a" data-element_type="widget" data-widget_type="feature.default">
                         <div class="elementor-widget-container">
-                    
-        
-        
-                
+
+
+
+
                     <div class="feature-box style-eight">
                             <div class="feature-box-icon">
                                 <span><i class="fa fa-shield restly-flaticon"></i></span>
@@ -113,14 +115,14 @@
                             <div class="feature-box-title">
                                 <h2>Hardware Solutions</h2>
                             </div>
-        
+
                             <div class="feature-box-desc">
                                 <p>We Plan, Build, Support, Manage, Improve, Innovate.</p>
                             </div>
                         </div>
                     </div>
-        
-                
+
+
                     </div>
                         </div>
                                 </div>
@@ -131,10 +133,10 @@
                                     <div class="elementor-widget-wrap">
                                 <div class="elementor-element elementor-element-9bb84a9 icon-left elementor-widget elementor-widget-feature" data-id="9bb84a9" data-element_type="widget" data-widget_type="feature.default">
                         <div class="elementor-widget-container">
-                    
-        
-        
-                
+
+
+
+
                     <div class="feature-box style-eight">
                             <div class="feature-box-icon">
                                 <span><i class="fa fa-terminal restly-flaticon"></i></span>
@@ -143,14 +145,14 @@
                             <div class="feature-box-title">
                                 <h2>Software Solutions</h2>
                             </div>
-        
+
                             <div class="feature-box-desc">
-                                <p>We resell, customize, optimize, support & manage./p>
+                                <p>We resell, customize, optimize, support & manage.</p>
                             </div>
                         </div>
                     </div>
-        
-                
+
+
                     </div>
                         </div>
                                 </div>
@@ -161,10 +163,10 @@
                                     <div class="elementor-widget-wrap">
                                 <div class="elementor-element elementor-element-939fea2 icon-left elementor-widget elementor-widget-feature" data-id="939fea2" data-element_type="widget" data-widget_type="feature.default">
                         <div class="elementor-widget-container">
-                    
-        
-        
-                
+
+
+
+
                     <div class="feature-box style-eight">
                             <div class="feature-box-icon">
                                 <span><i class="fa fa-server restly-flaticon"></i></span>
@@ -173,14 +175,14 @@
                             <div class="feature-box-title">
                                 <h2>IT Infrastructure</h2>
                             </div>
-        
+
                             <div class="feature-box-desc">
                                 <p>We Plan, Build, Support, Manage, Improve, Innovate.</p>
                             </div>
                         </div>
                     </div>
-        
-                
+
+
                     </div>
                         </div>
                                 </div>
@@ -191,10 +193,10 @@
                                     <div class="elementor-widget-wrap">
                                 <div class="elementor-element elementor-element-5d037c1 icon-left elementor-widget elementor-widget-feature" data-id="5d037c1" data-element_type="widget" data-widget_type="feature.default">
                         <div class="elementor-widget-container">
-                    
-        
-        
-                
+
+
+
+
                     <div class="feature-box style-eight">
                             <div class="feature-box-icon">
                                 <span><i class="fa fa-mobile restly-flaticon"></i></span>
@@ -203,14 +205,14 @@
                             <div class="feature-box-title">
                                 <h2>Mobile Solutions</h2>
                             </div>
-        
+
                             <div class="feature-box-desc">
                                 <p>We Plan, Build, Support, Manage, Improve, Innovate.</p>
                             </div>
                         </div>
                     </div>
-        
-                
+
+
                     </div>
                         </div>
                                 </div>
@@ -241,33 +243,33 @@
                         <div class="elementor-widget-wrap">
                     <div class="elementor-element elementor-element-4366c78 elementor-widget elementor-widget-sectiontitle" data-id="4366c78" data-element_type="widget" data-widget_type="sectiontitle.default">
             <div class="elementor-widget-container">
-        
+
             <div class="">
 
         <div class="section-title t_left">
-            
+
             <h5>// About Company</h5>
-            
+
             <div class="title">
                 <h4>We have been delivering
                     <span >software  </span>development services to a wide range of clients.</h4>
-                
+
             </div>
-            
-                        
+
+
             <div class="bar-main">
                 <div class="bar bar-big"></div>
             </div>
-                            
+
 
             <p>Directcore Technologies is an end-to-end Integrated IT solutions provider specializing in IT & Telecoms products, solutions and services cutting across various market verticals in Africa.</p>
 
-            
-        </div>	
+
+        </div>
 
     </div>
 
-    
+
             </div>
             </div>
             <section class="elementor-section elementor-inner-section elementor-element elementor-element-d77e5e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d77e5e3" data-element_type="section">
@@ -412,7 +414,7 @@
     <h2>High Quality Data Secuirity</h2>
 </div>
 <div class="description">
-    <p>Collaboratively pursue goal is 
+    <p>Collaboratively pursue goal is
 results whereas robust.</p>
 </div>
 </div>
@@ -446,7 +448,7 @@ results whereas robust.</p>
     <h2>IT Management</h2>
 </div>
 <div class="description">
-    <p>Collaboratively pursue goal is 
+    <p>Collaboratively pursue goal is
 results whereas robust.</p>
 </div>
 </div>
@@ -469,7 +471,7 @@ results whereas robust.</p>
 </section>
 
 
-			
+
 <section class="elementor-section elementor-top-section elementor-element elementor-element-dbeac36 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dbeac36" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
     <div class="elementor-container elementor-column-gap-default">
         <div class="elementor-row">
@@ -496,16 +498,16 @@ results whereas robust.</p>
 <h2><span></span></h2>
 </div>
 
-        
+
 <div class="bar-main">
 <div class="bar bar-big"></div>
 </div>
-            
+
 
 <p>Bookan unknown printer took a galley of type and scrambled It has survived <br> not only five centuries.Lorem ipsum dolor sitam</p>
 
 
-</div>	
+</div>
 
 </div>
 
@@ -519,61 +521,61 @@ results whereas robust.</p>
     <div class="em_tab_inner ">
         <div class="col-md-12">
             <ul class="em_tab_pils nav nav-pills">
-                    
-                                                                                                                                                                
-                
+
+
+
                         <li class="active in"><a data-toggle="pill" href="#tab-995"><i class="fa fa-globe"></i>Media</a></li>
-                                                
-                        
-                    
-                                                                                                                                                                
-                
+
+
+
+
+
                         <li><a data-toggle="pill" href="#tab-994"><i class="fa fa-globe"></i>Hi-Tech</a></li>
-                                                
-                        
-                    
-                                                                                                                                                                
-                
+
+
+
+
+
                         <li><a data-toggle="pill" href="#tab-993"><i class="fa fa-globe"></i>Industrial</a></li>
-                                                
-                        
-                    
-                                                                                                                                                                
-                
+
+
+
+
+
                         <li><a data-toggle="pill" href="#tab-992"><i class="fa fa-globe"></i>Banking</a></li>
-                                                
-                        
-                    
-                                                                                                                                                                
-                
+
+
+
+
+
                         <li><a data-toggle="pill" href="#tab-991"><i class="fa fa-globe"></i>Medical</a></li>
-                                                
-                        
-                    
-                                                                                                                                                                
-                
+
+
+
+
+
                         <li><a data-toggle="pill" href="#tab-989"><i class="fa fa-globe"></i>Automotive</a></li>
-                                                
-                        
-                    
-             </ul>		
+
+
+
+             </ul>
         </div>
 
 
 
-        
+
         <div class="em_tab_content tab-content">
-              
-          
+
+
                                         <div id="tab-995" class="tab-pane  active in">
-            
-             
+
+
                 <div class="col-md-6">
                         <div class="em_post_tab_thumb">
                             <img width="720" height="520" src="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog4.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog4.jpg 720w, https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog4-300x217.jpg 300w" sizes="(max-width: 720px) 100vw, 720px">											</div>
                 </div>
-                
-                <div class="col-md-6">	
+
+                <div class="col-md-6">
                     <div class="tab_pan_content">
                         <h2>Media</h2>
                         <div class="tab-description">
@@ -582,22 +584,22 @@ results whereas robust.</p>
 <div class="tab-link"><a href="#">Read More</a></div>
 </div>
 
-                    </div>											
+                    </div>
                 </div>
-                    
+
             </div>
-        
-                    
-          
+
+
+
                                         <div id="tab-994" class="tab-pane  ">
-            
-             
+
+
                 <div class="col-md-6">
                         <div class="em_post_tab_thumb">
                             <img width="720" height="520" src="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog2-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog2-1.jpg 720w, https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog2-1-300x217.jpg 300w" sizes="(max-width: 720px) 100vw, 720px">											</div>
                 </div>
-                
-                <div class="col-md-6">	
+
+                <div class="col-md-6">
                     <div class="tab_pan_content">
                         <h2>Hi-Tech</h2>
                         <div class="tab-description">
@@ -609,22 +611,22 @@ results whereas robust.</p>
 </div>
 </div>
 
-                    </div>											
+                    </div>
                 </div>
-                    
+
             </div>
-        
-                    
-          
+
+
+
                                         <div id="tab-993" class="tab-pane  ">
-            
-             
+
+
                 <div class="col-md-6">
                         <div class="em_post_tab_thumb">
                             <img width="720" height="520" src="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog1.jpg 720w, https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog1-300x217.jpg 300w" sizes="(max-width: 720px) 100vw, 720px">											</div>
                 </div>
-                
-                <div class="col-md-6">	
+
+                <div class="col-md-6">
                     <div class="tab_pan_content">
                         <h2>Industrial</h2>
                         <div class="tab-description">
@@ -636,22 +638,22 @@ results whereas robust.</p>
 </div>
 </div>
 
-                    </div>											
+                    </div>
                 </div>
-                    
+
             </div>
-        
-                    
-          
+
+
+
                                         <div id="tab-992" class="tab-pane  ">
-            
-             
+
+
                 <div class="col-md-6">
                         <div class="em_post_tab_thumb">
                             <img width="720" height="520" src="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog4.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog4.jpg 720w, https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog4-300x217.jpg 300w" sizes="(max-width: 720px) 100vw, 720px">											</div>
                 </div>
-                
-                <div class="col-md-6">	
+
+                <div class="col-md-6">
                     <div class="tab_pan_content">
                         <h2>Banking</h2>
                         <div class="tab-description">
@@ -663,22 +665,22 @@ results whereas robust.</p>
 </div>
 </div>
 
-                    </div>											
+                    </div>
                 </div>
-                    
+
             </div>
-        
-                    
-          
+
+
+
                                         <div id="tab-991" class="tab-pane  ">
-            
-             
+
+
                 <div class="col-md-6">
                         <div class="em_post_tab_thumb">
                             <img width="720" height="520" src="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3.jpg 720w, https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3-300x217.jpg 300w" sizes="(max-width: 720px) 100vw, 720px">											</div>
                 </div>
-                
-                <div class="col-md-6">	
+
+                <div class="col-md-6">
                     <div class="tab_pan_content">
                         <h2>Medical</h2>
                         <div class="tab-description">
@@ -690,22 +692,22 @@ results whereas robust.</p>
 </div>
 </div>
 
-                    </div>											
+                    </div>
                 </div>
-                    
+
             </div>
-        
-                    
-          
+
+
+
                                         <div id="tab-989" class="tab-pane  ">
-            
-             
+
+
                 <div class="col-md-6">
                         <div class="em_post_tab_thumb">
                             <img width="720" height="520" src="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3.jpg 720w, https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3-300x217.jpg 300w" sizes="(max-width: 720px) 100vw, 720px">											</div>
                 </div>
-                
-                <div class="col-md-6">	
+
+                <div class="col-md-6">
                     <div class="tab_pan_content">
                         <h2>Automotive</h2>
                         <div class="tab-description">
@@ -717,15 +719,15 @@ results whereas robust.</p>
 </div>
 </div>
 
-                    </div>											
+                    </div>
                 </div>
-                    
+
             </div>
-        
-                                            </div>											
-            
-        
-    </div>	
+
+                                            </div>
+
+
+    </div>
 
 </div>
 </div>
@@ -797,12 +799,12 @@ results whereas robust.</p>
         <h2>24/7 Online Support</h2>
     </div>
                             <div class="service-box-icon">
-        <i aria-hidden="true" class="flaticon flaticon-24-hours-2"></i>						</div>
+        <i aria-hidden="true" class="fa fa-clock"></i>						</div>
                             <div class="service-box-desc">
         <p>Lorem ipsum dolor sit amet dolore consectetur adipiscing elit, sed do eiusmod tempor incididunt utere labor magna aliqua.</p>
     </div>
 
-                            
+
 </div>
 </div><!-- .service-box .service-style-six -->
 
@@ -826,12 +828,12 @@ results whereas robust.</p>
         <h2>Experienced Engineers</h2>
     </div>
                             <div class="service-box-icon">
-        <i aria-hidden="true" class="flaticon flaticon-web-1"></i>						</div>
+                                <i class="fa fa-history" aria-hidden="true"></i>					</div>
                             <div class="service-box-desc">
         <p>Lorem ipsum dolor sit amet dolore consectetur adipiscing elit, sed do eiusmod tempor incididunt utere labor magna aliqua.</p>
     </div>
 
-                            
+
 </div>
 </div><!-- .service-box .service-style-six -->
 
@@ -855,12 +857,12 @@ results whereas robust.</p>
         <h2>Committed to Quality</h2>
     </div>
                             <div class="service-box-icon">
-        <i aria-hidden="true" class="flaticon flaticon-agreement"></i>						</div>
+                                <i class="fa fa-file-contract"></i>						</div>
                             <div class="service-box-desc">
         <p>Lorem ipsum dolor sit amet dolore consectetur adipiscing elit, sed do eiusmod tempor incididunt utere labor magna aliqua.</p>
     </div>
 
-                            
+
 </div>
 </div><!-- .service-box .service-style-six -->
 
@@ -900,16 +902,16 @@ results whereas robust.</p>
 <h2>Check Out Our  <span>Work Process</span></h2>
 </div>
 
-        
+
 <div class="bar-main">
 <div class="bar bar-big"></div>
 </div>
-            
+
 
 <p></p>
 
 
-</div>	
+</div>
 
 </div>
 

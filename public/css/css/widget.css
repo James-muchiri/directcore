@@ -46,7 +46,7 @@ height:800px;
 }
 .dreamit-slick-slider .hero-text-wrap h1 {
     font-size: 60px;
-    
+
     -webkit-animation: 1s 1.6s fadeInUp both;
     animation: 1s 1.6s fadeInUp both;
     font-weight: 700;
@@ -281,7 +281,7 @@ height:800px;
 }
 
 .shape20 {
-  position: absolute !important; 
+  position: absolute !important;
   right: 55%;
   bottom: 5%;
   z-index: -1;
@@ -917,7 +917,7 @@ Section Title
 	font-size: 39px;
 }
 .section-title h5 {
-	color: #f88d1b;
+	color: #0c5c99;
 	font-size: 16px;
 	text-transform: uppercase;
 	font-weight: 600;
@@ -952,7 +952,7 @@ Section Title
 	left: 0;
 	border: 4px solid transparent;
 	border-bottom: 0;
-	border-top-color: #f88d1b;
+	border-top-color: #0c5c99;
 	top: auto;
 }
 .t_center .bar.bar-big::before {
@@ -1326,7 +1326,7 @@ background: linear-gradient(to right, #000dff, #2c34ff, #444bff, #5860ff, #6b73f
 		padding: 40px 40px;
 		box-shadow: 0 0 15px rgba(0,0,0,0.15);
 		margin-bottom: 30px;
-	} 
+	}
 	.default-style.feature-box .feature-box-icon i {
 		margin-right: 0;
 		color:#f88d1b;
@@ -1394,7 +1394,7 @@ background: linear-gradient(to right, #000dff, #2c34ff, #444bff, #5860ff, #6b73f
 .style-three.feature-box:hover:before{
 	width:100%;
 }
- 
+
 .feature-box.style-seven {
     background: #f88d1b;
     padding: 18px 40px 25px;
@@ -1468,7 +1468,7 @@ background: linear-gradient(to right, #000dff, #2c34ff, #444bff, #5860ff, #6b73f
     width: 65px;
     height: 65px;
     display: block;
-    background: #f88d1b;
+    background: #0c5c99;
     color: #fff;
     text-align: center;
     line-height: 65px;
@@ -1483,7 +1483,7 @@ background: linear-gradient(to right, #000dff, #2c34ff, #444bff, #5860ff, #6b73f
     transition:.3s;
 }
 .style-eight .feature-box-desc{
-      transition:.3s;  
+      transition:.3s;
  }
 .icon-left .style-eight .feature-box-icon {
     float: left;
@@ -1500,7 +1500,7 @@ background:#0c5c99;
 }
 
 .feature-box.style-eight:hover .feature-box-icon i{
-    background:#232323;
+    background:#f88d1b;
     color:#fff;
 }
 
@@ -1742,7 +1742,7 @@ Service Box
 	background: #f88d1b;
 }
 .service-box.service-style-two:hover::before{
-	height:100%; 
+	height:100%;
 }
 .service-box.service-style-two:hover {
     transform: translateY(-8px);
@@ -1814,7 +1814,7 @@ Service Box
 .style-one .service-box.service-style-two:hover .service-box-icon i{
   background:#fff!important;
   color:#FF3C00!important;
-    
+
 }
 .style-one .service-box.service-style-two .service-box-title h2 {
     margin: 30px 0 24px 0;
@@ -2173,7 +2173,7 @@ Service Box
 	z-index: -1;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
-	background: #f88d1b;
+	background: #0c5c99;
 	transform:scale(0);
 }
 .service-box.service-style-six:hover::before{
@@ -3774,7 +3774,7 @@ Team
 }
 
 .mfp-hide {
-  display: none !important; 
+  display: none !important;
 }
 
 /* Team Style Seven */
@@ -4183,7 +4183,7 @@ Work Process
 }
 
 .work_progress-number span {
-	background: #f88d1b;
+	background: #0c5c99;
 	display: inline-block;
 	height: 50px;
 	width: 50px;
@@ -4201,7 +4201,7 @@ Work Process
 	top: -5px;
 	width: 60px;
 	height: 60px;
-	background: #f88d1b;
+	background: #0c5c99;
 	opacity: 0.6;
 	content: "";
 	margin: auto;
@@ -4215,7 +4215,7 @@ Work Process
 	top: -15px;
 	width: 80px;
 	height: 80px;
-	background: #f88d1b;
+	background: #0c5c99;
 	opacity: 0.4;
 	content: "";
 	margin: auto;
@@ -4971,7 +4971,7 @@ Brand
     border: 0;
     padding: 0;
 	-webkit-box-shadow: none;
-	box-shadow: none;	    
+	box-shadow: none;
 }
 .itsoft-single-brand.style2:hover{
 	margin-top: 0;
@@ -5221,10 +5221,10 @@ Icon Box
 .icon-box.style-three:before {
 	background: #f88d1b;
 	position:absolute;
-	content:""; 
-	left:0; 
-	top:0; 
-	height:100%; 
+	content:"";
+	left:0;
+	top:0;
+	height:100%;
 	width:0;
 	z-index:-1;
 	border-radius:5px;
@@ -5296,7 +5296,7 @@ Icon Box
     font-size: 40px;
 }
 .icon-box.style-four .icon-box-content{
-    
+
 }
 .icon-box.style-four .icon-box-content .title h2{
     font-family: "Rubik",Sans-serif;
@@ -5337,7 +5337,7 @@ Icon Box
     font-size: 40px;
 }
 .icon-box.style-five .icon-box-content{
-    
+
 }
 .icon-box.style-five .icon-box-content .title h2{
     font-family: "Rubik",Sans-serif;

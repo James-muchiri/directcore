@@ -1,7 +1,7 @@
  /*
-Theme Name: itsoft 
+Theme Name: itsoft
 Theme URI: http://webitkurigram.com/wp/itsoft/
-Description: TtSoft - IT Solution & Business Service WP Theme 
+Description: TtSoft - IT Solution & Business Service WP Theme
 Author: Consultant
 Author URI: https://www.templatemonster.com/vendors/consultant/
 Version: 1.0.0
@@ -217,9 +217,9 @@ h6 {
 }
 .header-support a:before{
 	position:absolute;
-	left:0; 
-	top:0; 
-	height:100%; 
+	left:0;
+	top:0;
+	height:100%;
 	width:0%;
 	content:"";
 	background:#161a33;
@@ -472,7 +472,7 @@ h6 {
 
 
 
-/* Style 7 Top Bar */ 
+/* Style 7 Top Bar */
 .top-right-address p {
 	margin-bottom: 0;
 	font-size: 12px;
@@ -722,7 +722,7 @@ h6 {
 .heading_style_4.tr_btn .itsoft_menu.main-search-menu {
 	float: none;
 	text-align: center;
-} 
+}
 
 /* transparent 2 */
 .trp_nav_area {
@@ -789,7 +789,7 @@ h6 {
 }
 .tr_white_btn  .hbg2 {
 	background:#FF3C00 !important;
-} 
+}
 .tr_white_btn .hbg2 .itsoft_menu > ul > li > a {
 	color: #fff !important;
 }
@@ -1018,12 +1018,12 @@ nav.itsoft_menu.main-search-menu {
 }
 .itsoft-main-menu .menu-item-has-children>a > i {
     margin-left: 5px;
-    
+
 
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     font-size: 10px;
-  
+
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 }
 
@@ -1828,7 +1828,7 @@ a.comment-edit-link {
 	transition:.3s;
 	-webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.1);
 	box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.1);
-	background: #FFFFFF;	
+	background: #FFFFFF;
 }
 .em_coaching_content {
     padding: 20px 25px;
@@ -1848,7 +1848,7 @@ a.comment-edit-link {
 	color:#f88d1b;
 }
 
-/* Coaching DetAILS */ 
+/* Coaching DetAILS */
 .itsoft-single-coaching-details {
     background: #fff;
 }
@@ -1872,13 +1872,13 @@ a.comment-edit-link {
     font-size: 14px;
     text-transform: capitalize;
     font-weight: 500;
-     
+
 }
 .itsoft-single-coaching-details .itsoft-blog-meta.txp-meta {
     margin-bottom: 15px;
 }
 .itsoft-single-coaching-content ul li {
-    list-style:none;	
+    list-style:none;
     padding: 30px 0 0;
     font-size: 17px;
 }
@@ -1904,7 +1904,7 @@ a.comment-edit-link {
 .coaching-details-meta {
   font-size: 12px;
   font-weight: 500;
-   
+
   margin-bottom: 13px;
   color: #f88d1b;
 }
@@ -2105,7 +2105,7 @@ a.comment-edit-link {
 .search-error > h3 {
 	display: block;
 	font-size: 60px;
-	 color: #f88d1b; 
+	 color: #f88d1b;
 }
 .search-error .search input {
 	height: 54px;
@@ -2394,8 +2394,8 @@ display:none !important;
 }
 .footer-bottom .row{
 		padding:20px 0;
-		border-top:1px solid rgba(255,255,255,.23);	
-} 
+		border-top:1px solid rgba(255,255,255,.23);
+}
 .footer-bottom-box{
 	padding: 20px 0 20px;
 
@@ -2667,7 +2667,7 @@ display:none !important;
 }
 
 .title_tx h5 {
-	color: #f88d1b;
+	color: #0c5c99;
 	font-size: 16px;
 	text-transform: uppercase;
 	font-weight: 600;
@@ -2734,14 +2734,14 @@ position:relative;
 	0% {
 	   border-radius : 30% 70% 70% 30% / 30% 30% 70% 70%;
 	   }
-	25% { 
+	25% {
 	   border-radius:  58% 42% 75% 25% / 76% 46% 54% 24%;
 	}
 	50% {
 	   border-radius: 50% 50% 33% 67% / 55% 27% 73% 45%;
 	   }
 	75% {
-	   border-radius:  33% 67% 58% 42% / 63% 68% 32% 37%	;	
+	   border-radius:  33% 67% 58% 42% / 63% 68% 32% 37%	;
 	}
 	}
 .gradient.about_shape::after {
@@ -2887,7 +2887,7 @@ position:relative;
             box-shadow: 0 16px 32px rgba(207, 228, 255, 0.8);
 	-webkit-transform:translateY(-10px);
 	    -ms-transform:translateY(-10px);
-	        transform:translateY(-10px);	
+	        transform:translateY(-10px);
 }
 .main-style.em-team .em-team-content-waraper {
 	-webkit-transition: .5s;
@@ -2954,7 +2954,7 @@ position:relative;
 .main-style.em-team:hover .em-team-content-socials-inner {
    opacity:1;
    top:50%;
-   right:0; 
+   right:0;
 }
 .main-style.em-team .em-team-content-title h2 {
 	-webkit-transition: all 0.3s ease-in-out 0s;
@@ -3136,8 +3136,8 @@ border-color:transparent;
 
 
 
- 
- 
+
+
 /*===================== itsoft Why Choose Us CSS =========================*/
 
 
@@ -3211,11 +3211,11 @@ border-color:transparent;
 }
 .prot_thumb:before {
 	position:absolute;
-	left:0; 
+	left:0;
 	width:100%;
 	height:100%;
 	background:rgba(0,0,0,0.60);
-	top:0; 
+	top:0;
 	content:"";
 	opacity:0;
 	transition:.5s;
@@ -3364,9 +3364,9 @@ border-color:transparent;
 
 .portfolio_details {
     overflow: hidden;
-    -webkit-box-shadow: 0 0 30px 
+    -webkit-box-shadow: 0 0 30px
     rgba(0,0,0,0.10);
-            box-shadow: 0 0 30px 
+            box-shadow: 0 0 30px
     rgba(0,0,0,0.10);
     padding: 65px 50px 50px;
 }
@@ -3385,14 +3385,14 @@ border-color:transparent;
 .pr-title {
     padding: 24px 0 18px;
 }
-.port_dtl_social{} 
+.port_dtl_social{}
 .port_dtl_social span{
 	font-size:20px;
 	font-weight:700;
 	margin-bottom:10px;
 	display:block;
-	
-} 
+
+}
 .port_dtl_social a {
     display: inline-block;
     width: 35px;
@@ -3636,7 +3636,7 @@ textarea {
 	    transform: translateY(-50%);
 }
 .nivoSlider {
- overflow: visible; 
+ overflow: visible;
 }
 .em-slider-title {
 	font-size: 20px;
@@ -3715,8 +3715,8 @@ textarea {
     margin-left: 7px;
 }
 .em-slider-button .withput-active:hover{
-	background:#fff; 
-	border-color:#fff; 
+	background:#fff;
+	border-color:#fff;
 	color:#f88d1b;
 }
 .em-button-button-area a i {
@@ -3887,7 +3887,7 @@ textarea {
 }
 .pricing_subtitle h4 {
 	font-size: 18px;
-	 
+
 	color: #656565;
 	font-weight: 400;
 	margin: 0;
@@ -4782,7 +4782,7 @@ margin-left:5px;
     text-align: left;
     margin-left: 0;
 }
-.about-video.single-video .layer-1, 
+.about-video.single-video .layer-1,
 .about-video.single-video .layer-2,
 .about-video.single-video .layer-3,
 .about-video.single-video .layer-4{
@@ -5007,7 +5007,7 @@ span.wpcf7-not-valid-tip {
     outline: 0;
     display: block;
     line-height: 25px !important;
-    color: #FF3C00 !important;
+    color:  #f88d1b !important;
     font-size: 20px !important;
     font-weight: 500 !important;
     margin: 0px 0px;
@@ -5016,7 +5016,7 @@ span.wpcf7-not-valid-tip {
 }
 .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
     color: #fff !important;
-    background: #FF3C00 !important;
+    background: #0c5c99 !important;
 }
 .nav>li>a:focus,
 .nav>li>a:hover {
@@ -5197,10 +5197,10 @@ a.active-tab-btn:hover {
 }
 .kc-google-maps iframe{
  width:100%;
- height:600px; 
- frameborder:0; 
+ height:600px;
+ frameborder:0;
  border:0;
-    
+
 }
 .kc_accordion_section.group {
 	padding-bottom: 20px !important;
@@ -5221,7 +5221,7 @@ a.active-tab-btn:hover {
 	margin-top: 0px !important;
 }
 #visa-type .content-image img{
-	width:80px !important; 
+	width:80px !important;
 	height:80px !important;
 }
 .footer-middle table#wp-calendar td {
@@ -5452,7 +5452,7 @@ Classic Home Css
     height: 100%;
     top: 0;
     left: 0;
-} 
+}
 .hero-style-two.single-slide:before {
 display:none;
 }
@@ -5658,8 +5658,8 @@ display:none;
             transform: translateX(330px) translateY(-215px)
         }
     }
-	
-	
+
+
 .circles {
     overflow: hidden;
     width: 100%;

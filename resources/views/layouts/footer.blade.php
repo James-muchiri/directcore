@@ -85,20 +85,20 @@
         
 
            
-            <a href="{{ url('/') }}">About Us</a>
+            <a href="/about-us">About Us</a>
             
             
           </div>
           <div class="col-md-3">
            
 
-            <a href="/">Contact us</a>
+            <a href="/contact_us">Contact us</a>
             
            
           </div>
           <div class="col-md-3">
             
-          <a href="/">Our Products</a>
+          <a href="/products">Our Products</a>
              
               
           </div>
@@ -115,16 +115,16 @@
 
 <ul class="social text-center">
         <li>
-          <a target="_blank" rel="noopener" href="https://www.twitter.com/cellulant"><span class="screen-reader-text">twitter</span><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          <a target="_blank" rel="noopener" href="https://twitter.com/DirectcoreTech"><span class="screen-reader-text">twitter</span><i class="fa fa-twitter" aria-hidden="true"></i></a>
         </li>
         <li>
-          <a target="_blank" rel="noopener" href="https://www.facebook.com/cellulant"><span class="screen-reader-text">facebook</span><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          <a target="_blank" rel="noopener" href="https://www.facebook.com/directcoretechnologies"><span class="screen-reader-text">facebook</span><i class="fa fa-facebook" aria-hidden="true"></i></a>
         </li>
         <li>
-          <a target="_blank" rel="noopener" href="https://www.linkedin.com/company/cellulant"><span class="screen-reader-text">linkedin</span><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+          <a target="_blank" rel="noopener" href="https://www.linkedin.com/company/directcore-technologies"><span class="screen-reader-text">linkedin</span><i class="fa fa-linkedin" aria-hidden="true"></i></a>
         </li>
         <li>
-          <a target="_blank" rel="noopener" href="https://www.instagram.com/cellulant"><span class="screen-reader-text">instagram</span><i class="fa fa-instagram" aria-hidden="true"></i></a>
+          <a target="_blank" rel="noopener" href="https://www.instagram.com/directcoretechnologies/"><span class="screen-reader-text">instagram</span><i class="fa fa-instagram" aria-hidden="true"></i></a>
         </li>      
       </ul>
         </div>
