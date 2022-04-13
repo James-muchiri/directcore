@@ -37,7 +37,8 @@
 }
 
 #footer  ul li a {
-    height: 50px;
+    height: 60px;
+    
 }
 #footer  ul li a:not(.nectar-button) {
     color: #777777!important;
@@ -74,13 +75,29 @@
 #footer  ul li a i {
     color: #777777;
 }
+
+.txr{
+  padding-bottom: 30px;
+}
+@media  (max-width: 570px) {
+
+  #footer  ul li a i {
+    -webkit-transition: all .45s cubic-bezier(0.25,1,0.33,1);
+    transition: all .45s cubic-bezier(0.25,1,0.33,1);
+    font-size: 20px;
+    height: 50px;
+    width: 30px;
+    line-height: 48px;
+}
+
+}
 </style>
 <footer id="footer">
   <div class="container">
     
       <div class="row">
 
-          <div class="col-md-3">
+          <div class="col-md-3 text-center txr">
 
         
 
@@ -89,21 +106,21 @@
             
             
           </div>
-          <div class="col-md-3">
+          <div class="col-md-3 text-center txr" >
            
 
             <a href="/contact_us">Contact us</a>
             
            
           </div>
-          <div class="col-md-3">
+          <div class="col-md-3 text-center txr">
             
           <a href="/products">Our Products</a>
              
               
           </div>
 
-          <div class="col-md-3">
+          <div class="col-md-3 text-center txr">
               <a href="/solutions">Our Solutions</a></a>
             
           </div>

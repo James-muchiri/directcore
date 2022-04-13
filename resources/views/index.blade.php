@@ -362,7 +362,7 @@
                         <div class="elementor-widget-wrap">
                     <div class="elementor-element elementor-element-b989168 elementor-widget elementor-widget-heading" data-id="b989168" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-        <h5 class="elementor-heading-title elementor-size-default">Fransis Andunga</h5>		</div>
+        <h5 class="elementor-heading-title elementor-size-default">Francis Adunga</h5>		</div>
             </div>
             <div class="elementor-element elementor-element-fff411e elementor-widget elementor-widget-text-editor" data-id="fff411e" data-element_type="widget" data-widget_type="text-editor.default">
             <div class="elementor-widget-container">
@@ -504,7 +504,8 @@ results whereas robust.</p>
 </div>
 
 
-<p>Bookan unknown printer took a galley of type and scrambled It has survived <br> not only five centuries.Lorem ipsum dolor sitam</p>
+<p>We have been delivering
+    software development services to a wide rangeof clients for many years.</p>
 
 
 </div>
@@ -801,7 +802,8 @@ results whereas robust.</p>
                             <div class="service-box-icon">
         <i aria-hidden="true" class="fa fa-clock"></i>						</div>
                             <div class="service-box-desc">
-        <p>Lorem ipsum dolor sit amet dolore consectetur adipiscing elit, sed do eiusmod tempor incididunt utere labor magna aliqua.</p>
+        <p>We have been delivering
+            software development services to a wide rangeof clients for many years.</p>
     </div>
 
 
@@ -830,7 +832,8 @@ results whereas robust.</p>
                             <div class="service-box-icon">
                                 <i class="fa fa-history" aria-hidden="true"></i>					</div>
                             <div class="service-box-desc">
-        <p>Lorem ipsum dolor sit amet dolore consectetur adipiscing elit, sed do eiusmod tempor incididunt utere labor magna aliqua.</p>
+        <p>We have been delivering
+            software development services to a wide rangeof clients for many years.</p>
     </div>
 
 
@@ -859,7 +862,8 @@ results whereas robust.</p>
                             <div class="service-box-icon">
                                 <i class="fa fa-file-contract"></i>						</div>
                             <div class="service-box-desc">
-        <p>Lorem ipsum dolor sit amet dolore consectetur adipiscing elit, sed do eiusmod tempor incididunt utere labor magna aliqua.</p>
+        <p>We have been delivering
+            software development services to a wide rangeof clients for many years.</p>
     </div>
 
 

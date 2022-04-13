@@ -19,7 +19,9 @@ Route::get('/test', function () {
 });
 Route::get('/products','PageController@products');
 
-
+Route::get('/coming_soon', function () {
+    return view('commingsoon');
+});
 
 
 Route::get('/','PageController@index');

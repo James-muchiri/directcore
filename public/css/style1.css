@@ -2486,7 +2486,7 @@ display:none !important;
 	right: 91px;
 	text-align: center;
 	width: 50px;
-	background: #f88d1b;
+	background: #0c5c99;
 	-webkit-transition: .3s;
 	-o-transition: .3s;
 	transition: .3s;
@@ -5007,7 +5007,7 @@ span.wpcf7-not-valid-tip {
     outline: 0;
     display: block;
     line-height: 25px !important;
-    color:  #f88d1b !important;
+
     font-size: 20px !important;
     font-weight: 500 !important;
     margin: 0px 0px;

@@ -8,7 +8,7 @@
               <div class="col-sm-12">
                   
                 <div class="mobile_menu_logo text-center">
-              <a href="https://wp.dreamitsolution.net/itsoft-elementor/" title="IT-Soft">
+              <a href="/" title="IT-Soft">
                   <img src="{{ asset('img/logo.png') }}" alt="IT-Soft">
               </a>		
           </div>
@@ -42,7 +42,7 @@
                               <ul id="menu-main-menu" class="sub-menu">
                                   {{-- <li id="menu-item-1821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1821"><a href="https://wp.dreamitsolution.net/itsoft-elementor/our-services/">Home</a></li>
     --}}
-  <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="/">Products  <i class="fa fa-chevron-down"></i></a>
+  <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="/products">Products  <i class="fa fa-chevron-down"></i></a>
   <ul class="sub-menu">
       <li id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1476"><a href="http://www.pesatel.com">Pesatel</a></li>
       <li id="menu-item-1479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="http://nexcom.co.ke"> Nexcom</a></li>
@@ -60,13 +60,13 @@
       </ul>
       </li>
 
-      <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="/">Solutions  <i class="fa fa-chevron-down"></i></a>
+      <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="/solutions">Solutions  <i class="fa fa-chevron-down"></i></a>
           <ul class="sub-menu">
                                                                                                                                                                                            
               <li id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1476"><a href="/software-solutions">Software Solutions</a></li>
               <li id="menu-item-1479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="/hardware-solutions">Hardware Solutions</a></li>
-              <li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="/it-solutions">Mobile Solutions</a></li>
-              <li id="menu-item-1480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1480"><a href="/mobile-solutions">IT Infrastructure Solutions</a></li>
+              <li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="/it-solutions">IT Infrastructure Solutions</a></li>
+              <li id="menu-item-1480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1480"><a href="/mobile-solutions">Mobile Solutions</a></li>
 
           </ul>
           </li>
@@ -74,19 +74,19 @@
               <ul class="sub-menu">
                   <li id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1476"><a href="/about-us">About Us</a></li>
                   <li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="/about-us#why-choose-us">Why Choose Us</a></li>
-                  <li id="menu-item-1478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1478"><a href="/FAQS">Faq</a></li>
+                  <li id="menu-item-1478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1478"><a href="/FAQS">FAQS</a></li>
 
               </ul>
               </li>
 
 
-  <li id="menu-item-1516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1516"><a href="/contact_us">Contact  </a></li>
+  <li id="menu-item-1516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1516"><a href="/contact_us">Contact Us </a></li>
   </ul>						</nav>
                       </div>
                       <div class="col-md-3 col-sm-3 col-xs-3">					
                           <div class="search_button">
                                                               <div class="donate-btn-header">
-                                      <a class="dtbtn" href="/contact_us">Call Us</a>	
+                                      <a class="dtbtn" href="tel:+254202325599">Call Us</a>	
                                   </div>	
                                   
                           </div>
@@ -103,48 +103,46 @@
                   <ul id="menu-main-menu-1" class="main-menu clearfix">
                          {{-- <li id="menu-item-1821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1821"><a href="https://wp.dreamitsolution.net/itsoft-elementor/our-services/">Home</a></li>
     --}}
-    <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="#">Products</a>
-      <ul class="sub-menu">
-          <li id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1476"><a href="https://wp.dreamitsolution.net/itsoft-elementor/about-us/"><img src="https://www.pesatel.com/assets/img/logo.png" class="" alt="logo"></a></li>
-          <li id="menu-item-1479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="https://wp.dreamitsolution.net/itsoft-elementor/our-services/"> <img src="https://nexcom.co.ke/images/logo/nexcom-logo.png" class="" alt="logo"></a></li>
-          <li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="https://wp.dreamitsolution.net/itsoft-elementor/why-choose-us/"><img src="https://alanacloud.com/images/logo.png" class="" alt="logo"></a></li>
-  
-      </ul>
-      </li>
-      <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="#">Services </a>
-          <ul class="sub-menu">
-                                                                                                                                                                          
-              <li id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1476"><a href="https://wp.dreamitsolution.net/itsoft-elementor/about-us/">IT Consultancy</a></li>
-              <li id="menu-item-1479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="https://wp.dreamitsolution.net/itsoft-elementor/our-services/">IT Project Management</a></li>
-              <li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="https://wp.dreamitsolution.net/itsoft-elementor/why-choose-us/">IT Training</a></li>
-  
-          </ul>
-          </li>
-  
-          <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="#">Solutions  </a>
-              <ul class="sub-menu">
-                                                                                                                                                                                               
-                  <li id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1476"><a href="/software-solutions">Software Solutions</a></li>
-                  <li id="menu-item-1479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="/hardware-solutions">Hardware Solutions</a></li>
-                  <li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="/it-solutions">Mobile Solutions</a></li>
-                  <li id="menu-item-1480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1480"><a href="/mobile-solutions">IT Infrastructure Solutions</a></li>
-  
-              </ul>
-              </li>
-              <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="#">Our Story </a>
-                  <ul class="sub-menu">
-                      <li id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1476"><a href="https://wp.dreamitsolution.net/itsoft-elementor/about-us/">About Us</a></li>
-                      <li id="menu-item-1479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="https://wp.dreamitsolution.net/itsoft-elementor/our-services/">Our Services</a></li>
-                      <li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="https://wp.dreamitsolution.net/itsoft-elementor/why-choose-us/">Why Choose Us</a></li>
-                      <li id="menu-item-1480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1480"><a href="https://wp.dreamitsolution.net/itsoft-elementor/our-team-member/">Our Team Member</a></li>
-                      <li id="menu-item-1478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1478"><a href="https://wp.dreamitsolution.net/itsoft-elementor/faq/">Faq</a></li>
-                      <li id="menu-item-1477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1477"><a href="https://wp.dreamitsolution.net/itsoft-elementor/contact-us/">Contact Us</a></li>
-                  </ul>
-                  </li>
-  
-    
-      <li id="menu-item-1516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1516"><a href="/contact_us">Contact  </a></li>
-      </ul>			</nav>
+    <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="/products">Products  <i class="fa fa-chevron-down"></i></a>
+        <ul class="sub-menu">
+            <li id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1476"><a href="http://www.pesatel.com">Pesatel</a></li>
+            <li id="menu-item-1479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="http://nexcom.co.ke"> Nexcom</a></li>
+            <li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="http://alana.co.ke">Alana</a></li>
+      
+        </ul>
+        </li>
+        <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="/">Services  <i class="fa fa-chevron-down"></i></a>
+            <ul class="sub-menu">
+                                                                                                                                                                            
+                <li id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1476"><a href="/coming_soon">IT Consultancy</a></li>
+                <li id="menu-item-1479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="/coming_soon">IT Project Management</a></li>
+                <li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="/coming_soon">IT Training</a></li>
+      
+            </ul>
+            </li>
+      
+            <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="/solutions">Solutions  <i class="fa fa-chevron-down"></i></a>
+                <ul class="sub-menu">
+                                                                                                                                                                                                 
+                    <li id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1476"><a href="/software-solutions">Software Solutions</a></li>
+                    <li id="menu-item-1479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1479"><a href="/hardware-solutions">Hardware Solutions</a></li>
+                    <li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="/it-solutions">IT Infrastructure Solutions</a></li>
+                    <li id="menu-item-1480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1480"><a href="/mobile-solutions">Mobile Solutions</a></li>
+      
+                </ul>
+                </li>
+                <li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12"><a href="/">Our Story <i class="fa fa-chevron-down"></i></a>
+                    <ul class="sub-menu">
+                        <li id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1476"><a href="/about-us">About Us</a></li>
+                        <li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="/about-us#why-choose-us">Why Choose Us</a></li>
+                        <li id="menu-item-1478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1478"><a href="/FAQS">FAQS</a></li>
+      
+                    </ul>
+                    </li>
+      
+      
+        <li id="menu-item-1516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1516"><a href="/contact_us">Contact Us </a></li>
+        </ul>			</nav>
           </div>					
       </div>			
       <!-- END MOBILE MENU AREA  -->

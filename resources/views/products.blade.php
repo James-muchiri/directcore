@@ -189,16 +189,14 @@
                                         <div class="section-title-wrap">
                                             <div class="item aos-init aos-animate" data-aos="fade-right">
                                                 <h6 class="section-sub-title mt-20">Our Solutions</h6>
-                                                <h3 class="heading">PESATEL <br>  </h3>
+                                                <h3 class="heading">Alana <br>  </h3>
             
-                                                <p class="text mt-30">Pesatel is an integrated Mobile Financial Services and Value Add Services platform.
-                                                    Pesatel platform is developed to provide robust and differentiated financial services, expand revenue streams,
-                                                    add a “sticky” element to product offering for Mobile Network Operators, Banks, Independent Mobile Money Service providers, etc
-                                                </p>
+                                                <p class="text mt-30">An Integrated Learning & Management Information System for automation of learning and 
+                                                    processes management for institutions of all sizes from ECD to Institutions of Higher Learning. </p>
             
                                                
                                                 <div class="itsoft-custom-buttons one">
-                                                    <div class="itsoft-button"><a href="https://www.pesatel.com/">Discover More<i class="fa fa-angle-right"></i></a></div>		</div>
+                                                    <div class="itsoft-button"><a href="https://alanacloud.com/">Discover More<i class="fa fa-angle-right"></i></a></div>		</div>
                                             </div>
                                         </div>
                                     </div>

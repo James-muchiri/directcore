@@ -32,7 +32,7 @@
                    
                         <li><a href="/solutions"> Our Solutions </a></li>
                         <li><i class="fa fa-angle-right"></i></li>
-                        <li>Mobile Solution</li>
+                        <li>Mobile Solutions</li>
                     
                     </ul>				
                 	</div>
@@ -83,7 +83,7 @@
 
 
 <div class="title">
-<h3>Hardware Solutions</h3>
+<h3>Mobile Solutions</h3>
 <h2><span></span></h2>
 </div>
 
@@ -93,9 +93,8 @@
 </div>
             
 
-<p>At Directcore Technologies, we intimately understand the value of robust, scalable, cost efficient and reliable IT and telecoms hardware products.
-    We provide end-to-end supply chain solutions for IT & Telecoms value equipment.<br>
-    We partner with major value add distributors and equipment vendors both locally and globally to ensure that our customers enjoy variety, value for their investment and best support and warranty.</p>
+<p>Directcore Technologies recognizes that modern businesses must be powered by speed, flexibility convenience, reliability and security.
+    We develop bespoke mobile solutions and have developed mobile banking solutions in addition to providing Mobile Value Add Services (Mobile VAS).</p>
 
 
 </div>	
@@ -115,37 +114,26 @@
                     
                                                                                                                                                                 
                 
-                        <li class="active in"><a data-toggle="pill" href="#tab-995"><i class="fa fa-globe"></i>Computing Solutions</a></li>
+                        <li class="active in"><a data-toggle="pill" href="#tab-995"><i class="fa fa-globe"></i>
+                            BESPOKE MOBILE SOLUTIONS</a></li>
                                                 
                         
                     
                                                                                                                                                                 
                 
-                        <li><a data-toggle="pill" href="#tab-994"><i class="fa fa-globe"></i>UCC Solutions</a></li>
+                        <li><a data-toggle="pill" href="#tab-994"><i class="fa fa-globe"></i>MOBILE BANKING SOLUTIONS</a></li>
                                                 
                         
                     
                                                                                                                                                                 
                 
-                        <li><a data-toggle="pill" href="#tab-993"><i class="fa fa-globe"></i>Networking Solutions</a></li>
+                        <li><a data-toggle="pill" href="#tab-993"><i class="fa fa-globe"></i>Mobile VAS Solutions
+                        </a></li>
                                                 
                         
                     
                                                                                                                                                                 
                 
-                        <li><a data-toggle="pill" href="#tab-992"><i class="fa fa-globe"></i>Power Solutions</a></li>
-                                                
-                        
-                    
-                                                                                                                                                                
-                
-                        <li><a data-toggle="pill" href="#tab-991"><i class="fa fa-globe"></i>Storage Solution</a></li>
-                                                
-                        
-                    
-                                                                                                                                                                
-                
-                        <li><a data-toggle="pill" href="#tab-989"><i class="fa fa-globe"></i>Security Solutions</a></li>
                                                 
                         
                     
@@ -168,7 +156,7 @@
                 
                 <div class="col-md-6">	
                     <div class="tab_pan_content">
-                        <h2>Computing Solutions</h2>
+                        <h2>BESPOKE MOBILE SOLUTIONS</h2>
                         <div class="tab-description">
 <p>We’re available for 8 hours a day! Contact to require a detailed analysis and assessment of your plan.</p>
 <section class="elementor-section elementor-inner-section elementor-element elementor-element-d77e5e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d77e5e3" data-element_type="section">
@@ -183,36 +171,25 @@
         <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">Backup System.</span>
+                    <span class="elementor-icon-list-text">Mobile Apps.</span>
                 </li>
             <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">Servers</span>
+                    <span class="elementor-icon-list-text">USSD solutions</span>
                 </li>
             <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">Commercial Desktops</span>
+                    <span class="elementor-icon-list-text">SMS solutions</span>
                 </li>
             <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">Commercial Laptops</span>
+                    <span class="elementor-icon-list-text">Integration Solutions</span>
                 </li>
-                <li class="elementor-icon-list-item">
-                    <span class="elementor-icon-list-icon">
-    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                <span class="elementor-icon-list-text">Exclusive Laptops</span>
-            </li>
-            <li class="elementor-icon-list-item">
-                <span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-            <span class="elementor-icon-list-text">Special Purpose Laptops</span>
-        </li>
-
-            
-              
+    
+  
 
     </ul>
 </div>
@@ -244,7 +221,7 @@
                 
                 <div class="col-md-6">	
                     <div class="tab_pan_content">
-                        <h2>Unified Communication and Collaboration (UCC) Solutions</h2>
+                        <h2>Mobile Banking Solutions</h2>
                         <div class="tab-description">
 <p>We’re available for 8 hours a day!
     Contact to require a detailed analysis and assessment of your plan.</p>
@@ -260,26 +237,41 @@
         <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">IPBX.</span>
+                    <span class="elementor-icon-list-text">Our Mobile Banking solutions include</span>
                 </li>
             <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">IP Phones</span>
+                    <span class="elementor-icon-list-text">Mobile Apps for Banks</span>
                 </li>
             <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">Contact Centers</span>
+                    <span class="elementor-icon-list-text">SMS & USSD Banking Solutions</span>
                 </li>
             <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">Pentaho</span>
+                    <span class="elementor-icon-list-text">Agency Banking</span>
                 </li>
                
-
-     
+                <li class="elementor-icon-list-item">
+                    <span class="elementor-icon-list-icon">
+    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+                <span class="elementor-icon-list-text">Banking Integration Solutions</span>
+            </li>
+            <li class="elementor-icon-list-item">
+                <span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+            <span class="elementor-icon-list-text">Bank Alerts and Notification Solutions</span>
+        </li>
+       
+                
+                
+                
+                
+                
+                
     
               
 
@@ -313,7 +305,7 @@
                 
                 <div class="col-md-6">	
                     <div class="tab_pan_content">
-                        <h2>Networking Solutions</h2>
+                        <h2>Mobile VAS Solutions</h2>
                         <div class="tab-description">
 
                             <p>We’re available for 8 hours a day!
@@ -330,29 +322,25 @@
                                     <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Routers, Switches, Firewalls and UTMS.</span>
+                                                <span class="elementor-icon-list-text"> SMS Aggregation Gateway</span>
                                             </li>
                                         <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Loadbalancers and Application Delivery Controllers
-                                                    (ADCs)</span>
+                                                <span class="elementor-icon-list-text">USSD Aggregation Gateway</span>
                                             </li>
                                         <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Network Cables, Tools & Accessories</span>
+                                                <span class="elementor-icon-list-text">Airtime Recharge</span>
                                             </li>
                                         <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Server Racks & Communication enclosures</span>
+                                                <span class="elementor-icon-list-text">Premium Rate Services Platform</span>
                                             </li>
                                            
-                            
-                                 
-                                         
-                            
+   
                                 </ul>
                             </div>
                             </div>
@@ -372,187 +360,12 @@
         
                     
           
-                                        <div id="tab-992" class="tab-pane  ">
-            
-             
-                <div class="col-md-6">
-                        <div class="em_post_tab_thumb">
-                            <img width="720" height="520" src="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog4.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog4.jpg 720w, https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog4-300x217.jpg 300w" sizes="(max-width: 720px) 100vw, 720px">											</div>
-                </div>
-                
-                <div class="col-md-6">	
-                    <div class="tab_pan_content">
-                        <h2>Power Solutions</h2>
-                        <div class="tab-description">
-                            <p>We’re available for 8 hours a day!
-                                Contact to require a detailed analysis and assessment of your plan.</p>
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-d77e5e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d77e5e3" data-element_type="section">
-                                <div class="elementor-container elementor-column-gap-no">
-                                    <div class="elementor-row">
-                            <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-86ac9c2" data-id="86ac9c2" data-element_type="column">
-                            <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                <div class="elementor-element elementor-element-3dd46ed elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3dd46ed" data-element_type="widget" data-widget_type="icon-list.default">
-                            <div class="elementor-widget-container">
-                            <ul class="elementor-icon-list-items">
-                                    <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">UPS</span>
-                                            </li>
-                                        <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Inverters</span>
-                                            </li>
-                                        <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Batteries</span>
-                                            </li>
-                                       
-                                       
-                            
-                                </ul>
-                            </div>
-                            </div>
-                                </div>
-                            </div>
-                            </div>
-                            
-                                        </div>
-                            </div>
-                            </section>
-</div>
-
-                    </div>											
-                </div>
-                    
-            </div>
+                          
         
                     
-          
-                                        <div id="tab-991" class="tab-pane  ">
-            
-             
-                <div class="col-md-6">
-                        <div class="em_post_tab_thumb">
-                            <img width="720" height="520" src="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3.jpg 720w, https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3-300x217.jpg 300w" sizes="(max-width: 720px) 100vw, 720px">											</div>
-                </div>
-                
-                <div class="col-md-6">	
-                    <div class="tab_pan_content">
-                        <h2>Storage Solutions</h2>
-                        <div class="tab-description">
-                            <p>We’re available for 8 hours a day!
-                                Contact to require a detailed analysis and assessment of your plan.</p>
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-d77e5e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d77e5e3" data-element_type="section">
-                                <div class="elementor-container elementor-column-gap-no">
-                                    <div class="elementor-row">
-                            <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-86ac9c2" data-id="86ac9c2" data-element_type="column">
-                            <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                <div class="elementor-element elementor-element-3dd46ed elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3dd46ed" data-element_type="widget" data-widget_type="icon-list.default">
-                            <div class="elementor-widget-container">
-                            <ul class="elementor-icon-list-items">
-                                    <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Network Attached Storage</span>
-                                            </li>
-                                        <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Storage Area Network</span>
-                                            </li>
-                                        <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Backup System</span>
-                                            </li>
-                                    
-                                            
-                                       
-                                       
-                            
-                                </ul>
-                            </div>
-                            </div>
-                                </div>
-                            </div>
-                            </div>
-                            
-                                        </div>
-                            </div>
-                            </section>
-</div>
-
-                    </div>											
-                </div>
-                    
-            </div>
-        
                     
           
-                                        <div id="tab-989" class="tab-pane  ">
-            
-             
-                <div class="col-md-6">
-                        <div class="em_post_tab_thumb">
-                            <img width="720" height="520" src="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3.jpg 720w, https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3-300x217.jpg 300w" sizes="(max-width: 720px) 100vw, 720px">											</div>
-                </div>
-                
-                <div class="col-md-6">	
-                    <div class="tab_pan_content">
-                        <h2>Security Solutions</h2>
-                        <div class="tab-description">
-                            <p>We’re available for 8 hours a day!
-                                Contact to require a detailed analysis and assessment of your plan.</p>
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-d77e5e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d77e5e3" data-element_type="section">
-                                <div class="elementor-container elementor-column-gap-no">
-                                    <div class="elementor-row">
-                            <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-86ac9c2" data-id="86ac9c2" data-element_type="column">
-                            <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                <div class="elementor-element elementor-element-3dd46ed elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3dd46ed" data-element_type="widget" data-widget_type="icon-list.default">
-                            <div class="elementor-widget-container">
-                            <ul class="elementor-icon-list-items">
-                                    <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">CCTV Cameras</span>
-                                            </li>
-                                        <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Access Control Systems</span>
-                                            </li>
-                                        <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Alarm Systems</span>
-                                            </li>
-                                    
-                                            
-                                   
-                                       
-                            
-                                </ul>
-                            </div>
-                            </div>
-                                </div>
-                            </div>
-                            </div>
-                            
-                                        </div>
-                            </div>
-                            </section>
-</div>
-
-                    </div>											
-                </div>
-                    
-            </div>
+                         
         
                                             </div>											
             

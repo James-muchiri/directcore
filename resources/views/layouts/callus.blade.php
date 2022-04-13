@@ -15,7 +15,7 @@
 <div class="elementor-icon-box-wrapper">
     <div class="elementor-icon-box-icon" style="    padding-top: 50px;padding-right: 20px;">
 <span class="elementor-icon elementor-animation-">
-<i aria-hidden="true" class="fas fa-globe"></i>				</span>
+<i aria-hidden="true" class="fas fa-phone"></i>				</span>
 </div>
     <div class="elementor-icon-box-content">
 <h3 class="elementor-icon-box-title">
@@ -117,9 +117,11 @@
         </div>
         <h6 class="heading font-weight--reguler">Reach out now!</h6>
         <h2 class="call-us"><a href="tel:+254202325599">+254-202325599</a></h2>
-        <div class="contact-us-button mt-20">
-            <a href="tel:+254202325599" class="btn btn--secondary">Contact us</a>
-        </div>
+ 
+                   
+        <div class="itsoft-custom-buttons one">
+            <div class="itsoft-button"><a href="tel:+254202325599">Contact us<i class="fa fa-angle-right"></i></a>
+            </div>		</div>
     </div>
 </div>
 </div>

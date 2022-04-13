@@ -32,7 +32,7 @@
                    
                         <li><a href="/solutions"> Our Solutions </a></li>
                         <li><i class="fa fa-angle-right"></i></li>
-                        <li>Hardware Solution</li>
+                        <li>IT Infrastructure  Solutions</li>
                     
                     </ul>				
                 	</div>
@@ -83,7 +83,7 @@
 
 
 <div class="title">
-<h3>Hardware Solutions</h3>
+<h3>IT Infrastructure  Solutions</h3>
 <h2><span></span></h2>
 </div>
 
@@ -93,9 +93,11 @@
 </div>
             
 
-<p>At Directcore Technologies, we intimately understand the value of robust, scalable, cost efficient and reliable IT and telecoms hardware products.
-    We provide end-to-end supply chain solutions for IT & Telecoms value equipment.<br>
-    We partner with major value add distributors and equipment vendors both locally and globally to ensure that our customers enjoy variety, value for their investment and best support and warranty.</p>
+<p>Today, business landscape is defined by communication, your communications infrastructure drives the business, at the core of your communication and collaboration infrastructure is the network, providing fast, seamless connectivity that is essential to business operations, your organization’s business agility is determined by the speed with which it can transform data into information and accelerate communication internally and externally, and network DOWNTIME is a COST your business CAN’T afford! Similarly, organizations face intense pressure to stay agile and responsive to a volatile business environment.
+    The emergence of new computing trends like Cloud Computing, Virtualization, Mobility and Shared Content forces organizations to rethink the way they do business.
+    Agile business focuses on delivering measurable business value through IT and this means a rethink on how IT Infrastructure Services are designed, provisioned and maintained for both internal and external clients of an enterprise.
+ 
+</p>
 
 
 </div>	
@@ -115,25 +117,25 @@
                     
                                                                                                                                                                 
                 
-                        <li class="active in"><a data-toggle="pill" href="#tab-995"><i class="fa fa-globe"></i>Computing Solutions</a></li>
+                        <li class="active in"><a data-toggle="pill" href="#tab-995"><i class="fa fa-globe"></i>IP Network Solutions</a></li>
                                                 
                         
                     
                                                                                                                                                                 
                 
-                        <li><a data-toggle="pill" href="#tab-994"><i class="fa fa-globe"></i>UCC Solutions</a></li>
+                        <li><a data-toggle="pill" href="#tab-994"><i class="fa fa-globe"></i>Managed Network Services</a></li>
                                                 
                         
                     
                                                                                                                                                                 
                 
-                        <li><a data-toggle="pill" href="#tab-993"><i class="fa fa-globe"></i>Networking Solutions</a></li>
+                        <li><a data-toggle="pill" href="#tab-993"><i class="fa fa-globe"></i>Network Communication Solutions</a></li>
                                                 
                         
                     
                                                                                                                                                                 
                 
-                        <li><a data-toggle="pill" href="#tab-992"><i class="fa fa-globe"></i>Power Solutions</a></li>
+                        <li><a data-toggle="pill" href="#tab-992"><i class="fa fa-globe"></i> Datacenter Solutions </a></li>
                                                 
                         
                     
@@ -145,13 +147,18 @@
                     
                                                                                                                                                                 
                 
-                        <li><a data-toggle="pill" href="#tab-989"><i class="fa fa-globe"></i>Security Solutions</a></li>
-                                                
+                                          
                         
                     
+
+                       
+
              </ul>		
         </div>
 
+
+     
+      
 
 
         
@@ -168,7 +175,7 @@
                 
                 <div class="col-md-6">	
                     <div class="tab_pan_content">
-                        <h2>Computing Solutions</h2>
+                        <h2>IP Network Solutions</h2>
                         <div class="tab-description">
 <p>We’re available for 8 hours a day! Contact to require a detailed analysis and assessment of your plan.</p>
 <section class="elementor-section elementor-inner-section elementor-element elementor-element-d77e5e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d77e5e3" data-element_type="section">
@@ -183,12 +190,12 @@
         <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">Backup System.</span>
+                    <span class="elementor-icon-list-text">Network Design, Transformation & Optimization.</span>
                 </li>
             <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">Servers</span>
+                    <span class="elementor-icon-list-text">Core Networking</span>
                 </li>
             <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
@@ -198,20 +205,19 @@
             <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">Commercial Laptops</span>
+                    <span class="elementor-icon-list-text">Data Center Networking</span>
                 </li>
                 <li class="elementor-icon-list-item">
                     <span class="elementor-icon-list-icon">
     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                <span class="elementor-icon-list-text">Exclusive Laptops</span>
+                <span class="elementor-icon-list-text">Access Networking</span>
             </li>
-            <li class="elementor-icon-list-item">
-                <span class="elementor-icon-list-icon">
-<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-            <span class="elementor-icon-list-text">Special Purpose Laptops</span>
-        </li>
-
-            
+      
+        
+        
+        
+        
+        
               
 
     </ul>
@@ -244,7 +250,7 @@
                 
                 <div class="col-md-6">	
                     <div class="tab_pan_content">
-                        <h2>Unified Communication and Collaboration (UCC) Solutions</h2>
+                        <h2>Managed Network Services</h2>
                         <div class="tab-description">
 <p>We’re available for 8 hours a day!
     Contact to require a detailed analysis and assessment of your plan.</p>
@@ -260,27 +266,33 @@
         <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">IPBX.</span>
+                    <span class="elementor-icon-list-text">WAN QoS &SLA Management</span>
                 </li>
             <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">IP Phones</span>
+                    <span class="elementor-icon-list-text">Server Management</span>
                 </li>
             <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">Contact Centers</span>
+                    <span class="elementor-icon-list-text">Datacenter Network Support & Management</span>
                 </li>
             <li class="elementor-icon-list-item">
                         <span class="elementor-icon-list-icon">
         <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                    <span class="elementor-icon-list-text">Pentaho</span>
+                    <span class="elementor-icon-list-text"> LAN , PC & Telephony Support & Management</span>
                 </li>
                
 
      
     
+                
+                
+                
+               
+               
+            
               
 
     </ul>
@@ -313,7 +325,7 @@
                 
                 <div class="col-md-6">	
                     <div class="tab_pan_content">
-                        <h2>Networking Solutions</h2>
+                        <h2> Network Communication Solutions</h2>
                         <div class="tab-description">
 
                             <p>We’re available for 8 hours a day!
@@ -330,28 +342,30 @@
                                     <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Routers, Switches, Firewalls and UTMS.</span>
+                                                <span class="elementor-icon-list-text">Datacenter Backbone Cabling.</span>
                                             </li>
                                         <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Loadbalancers and Application Delivery Controllers
-                                                    (ADCs)</span>
+                                                <span class="elementor-icon-list-text"> Structured Cabling</span>
                                             </li>
                                         <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Network Cables, Tools & Accessories</span>
+                                                <span class="elementor-icon-list-text">Wireless, Fiber & VSAT Installations</span>
                                             </li>
                                         <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Server Racks & Communication enclosures</span>
+                                                <span class="elementor-icon-list-text">Installation of Integrated Reception System(IRS)    </span>
                                             </li>
                                            
                             
                                  
-                                         
+                                            
+                                           
+                                            
+                                              
                             
                                 </ul>
                             </div>
@@ -382,7 +396,7 @@
                 
                 <div class="col-md-6">	
                     <div class="tab_pan_content">
-                        <h2>Power Solutions</h2>
+                        <h2>Datacenter Solutions</h2>
                         <div class="tab-description">
                             <p>We’re available for 8 hours a day!
                                 Contact to require a detailed analysis and assessment of your plan.</p>
@@ -398,21 +412,54 @@
                                     <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">UPS</span>
+                                                <span class="elementor-icon-list-text">Design &cabling</span>
                                             </li>
                                         <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Inverters</span>
+                                                <span class="elementor-icon-list-text">Floor & Cooling</span>
                                             </li>
                                         <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Batteries</span>
+                                                <span class="elementor-icon-list-text">File Protection</span>
                                             </li>
+                                            <li class="elementor-icon-list-item">
+                                                <span class="elementor-icon-list-icon">
+                                <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+                                            <span class="elementor-icon-list-text">Access Control System</span>
+                                        </li>
+                                        <li class="elementor-icon-list-item">
+                                            <span class="elementor-icon-list-icon">
+                            <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+                                        <span class="elementor-icon-list-text">CCTV System</span>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon">
+                        <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+                                    <span class="elementor-icon-list-text">Clean Power</span>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <span class="elementor-icon-list-icon">
+                    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+                                <span class="elementor-icon-list-text">Server Virtualization</span>
+                            </li>
+                            <li class="elementor-icon-list-item">
+                                <span class="elementor-icon-list-icon">
+                <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
+                            <span class="elementor-icon-list-text">Cloud Integration</span>
+                        </li>
                                        
-                                       
-                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                           
                                 </ul>
                             </div>
                             </div>
@@ -458,21 +505,24 @@
                                     <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Network Attached Storage</span>
+                                                <span class="elementor-icon-list-text">Design and Implementation of SAN & NAS</span>
                                             </li>
                                         <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Storage Area Network</span>
+                                                <span class="elementor-icon-list-text">Data Backup</span>
                                             </li>
                                         <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                     <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Backup System</span>
+                                                <span class="elementor-icon-list-text">Document Management</span>
                                             </li>
                                     
                                             
-                                       
+                                            
+                                           
+                                            
+                            
                                        
                             
                                 </ul>
@@ -494,65 +544,7 @@
         
                     
           
-                                        <div id="tab-989" class="tab-pane  ">
-            
-             
-                <div class="col-md-6">
-                        <div class="em_post_tab_thumb">
-                            <img width="720" height="520" src="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3.jpg 720w, https://wp.dreamitsolution.net/itsoft-elementor/wp-content/uploads/2020/09/blog3-300x217.jpg 300w" sizes="(max-width: 720px) 100vw, 720px">											</div>
-                </div>
-                
-                <div class="col-md-6">	
-                    <div class="tab_pan_content">
-                        <h2>Security Solutions</h2>
-                        <div class="tab-description">
-                            <p>We’re available for 8 hours a day!
-                                Contact to require a detailed analysis and assessment of your plan.</p>
-                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-d77e5e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d77e5e3" data-element_type="section">
-                                <div class="elementor-container elementor-column-gap-no">
-                                    <div class="elementor-row">
-                            <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-86ac9c2" data-id="86ac9c2" data-element_type="column">
-                            <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                <div class="elementor-element elementor-element-3dd46ed elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3dd46ed" data-element_type="widget" data-widget_type="icon-list.default">
-                            <div class="elementor-widget-container">
-                            <ul class="elementor-icon-list-items">
-                                    <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">CCTV Cameras</span>
-                                            </li>
-                                        <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Access Control Systems</span>
-                                            </li>
-                                        <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-                                    <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                <span class="elementor-icon-list-text">Alarm Systems</span>
-                                            </li>
-                                    
-                                            
-                                   
-                                       
-                            
-                                </ul>
-                            </div>
-                            </div>
-                                </div>
-                            </div>
-                            </div>
-                            
-                                        </div>
-                            </div>
-                            </section>
-</div>
-
-                    </div>											
-                </div>
-                    
-            </div>
+                     
         
                                             </div>											
             
