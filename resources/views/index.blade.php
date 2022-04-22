@@ -106,7 +106,7 @@
 
 
 
-
+<a href="hardware-solutions">
                     <div class="feature-box style-eight">
                             <div class="feature-box-icon">
                                 <span><i class="fa fa-shield restly-flaticon"></i></span>
@@ -121,7 +121,7 @@
                             </div>
                         </div>
                     </div>
-
+</a>
 
                     </div>
                         </div>
@@ -136,7 +136,7 @@
 
 
 
-
+                            <a href="software-solutions">
                     <div class="feature-box style-eight">
                             <div class="feature-box-icon">
                                 <span><i class="fa fa-terminal restly-flaticon"></i></span>
@@ -151,7 +151,7 @@
                             </div>
                         </div>
                     </div>
-
+                </a>
 
                     </div>
                         </div>
@@ -166,7 +166,7 @@
 
 
 
-
+                            <a href="it-solutions">
                     <div class="feature-box style-eight">
                             <div class="feature-box-icon">
                                 <span><i class="fa fa-server restly-flaticon"></i></span>
@@ -181,7 +181,7 @@
                             </div>
                         </div>
                     </div>
-
+                </a>
 
                     </div>
                         </div>
@@ -196,7 +196,7 @@
 
 
 
-
+                            <a href="mobile-solutions">
                     <div class="feature-box style-eight">
                             <div class="feature-box-icon">
                                 <span><i class="fa fa-mobile restly-flaticon"></i></span>
@@ -211,7 +211,7 @@
                             </div>
                         </div>
                     </div>
-
+                </a>
 
                     </div>
                         </div>
@@ -947,7 +947,7 @@ results whereas robust.</p>
 </div>
 <div class="work_progress-desc">
 <p>
-    Aute irure dolor repreh an enderit velit esse 					</p>
+    Choose a service from the available services</p>
 </div>
 </div>
 </div>
@@ -980,7 +980,7 @@ results whereas robust.</p>
 </div>
 <div class="work_progress-desc">
 <p>
-    Aute irure dolor repreh an enderit velit esse 					</p>
+    Have a meating with our experienced team					</p>
 </div>
 </div>
 </div>
@@ -1013,7 +1013,7 @@ results whereas robust.</p>
 </div>
 <div class="work_progress-desc">
 <p>
-    Aute irure dolor repreh an enderit velit esse 					</p>
+    Receive a  custom plan		</p>
 </div>
 </div>
 </div>
@@ -1046,7 +1046,7 @@ results whereas robust.</p>
 </div>
 <div class="work_progress-desc">
 <p>
-    Aute irure dolor repreh an enderit velit esse 					</p>
+    changing service to product	</p>
 </div>
 </div>
 </div>

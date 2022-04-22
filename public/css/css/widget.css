@@ -1485,6 +1485,9 @@ background: linear-gradient(to right, #000dff, #2c34ff, #444bff, #5860ff, #6b73f
 .style-eight .feature-box-desc{
       transition:.3s;
  }
+.feature-box-desc{
+ color: #6d6d6d;
+}
 .icon-left .style-eight .feature-box-icon {
     float: left;
     margin: 0 30px  0 -63px;

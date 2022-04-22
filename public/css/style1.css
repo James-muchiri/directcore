@@ -1038,7 +1038,7 @@ nav.itsoft_menu.main-search-menu {
 }
 a.dtbtn {
 	-moz-user-select: none;
-	background: #f88d1b;
+	background: #0c5c99;
 	color: #fff;
 	cursor: pointer;
 	display: inline-block;
@@ -1051,13 +1051,13 @@ a.dtbtn {
 	-o-transition: all 0.3s ease 0s;
 	transition: all 0.3s ease 0s;
 	vertical-align: middle;
-	border-radius: 3px;
-	border: 2px solid #f88d1b;
+	border-radius: 6px;
+	border: 2px solid #0c5c99;
 }
 a.dtbtn:hover {
-    background: #bd2d10;
+    background: #f88d1b;
     color: #fff;
-    border-color: #bd2d10;
+    border-color: #f88d1b;
 }
 .transprent-menu.tr-btn-search .donate-btn-header {
 	margin-top: 10px;

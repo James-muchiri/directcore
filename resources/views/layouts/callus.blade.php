@@ -116,11 +116,11 @@
             <span class="fa fa-phone"></span>
         </div>
         <h6 class="heading font-weight--reguler">Reach out now!</h6>
-        <h2 class="call-us"><a href="tel:+254202325599">+254-202325599</a></h2>
+        <h2 class="call-us"><a href="tel:+254730 320 000">+254-730 320 000</a></h2>
  
                    
         <div class="itsoft-custom-buttons one">
-            <div class="itsoft-button"><a href="tel:+254202325599">Contact us<i class="fa fa-angle-right"></i></a>
+            <div class="itsoft-button"><a href="tel:+254730 320 000">Contact us<i class="fa fa-angle-right"></i></a>
             </div>		</div>
     </div>
 </div>
