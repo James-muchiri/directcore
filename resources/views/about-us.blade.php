@@ -259,7 +259,7 @@
                         </div>
                         <div class="elementor-element elementor-element-b605e14 elementor-widget elementor-widget-progress" data-id="b605e14" data-element_type="widget" data-widget_type="progress.default">
                         <div class="elementor-widget-container">
-                                <span class="elementor-title">App Development</span>
+                                <span class="elementor-title">Software Solutions</span>
 
                 <div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="90" aria-valuetext="">
                     <div class="elementor-progress-bar" data-max="90" style="width: 90%;">
@@ -271,7 +271,7 @@
                         </div>
                         <div class="elementor-element elementor-element-0629acd elementor-widget elementor-widget-progress" data-id="0629acd" data-element_type="widget" data-widget_type="progress.default">
                         <div class="elementor-widget-container">
-                                <span class="elementor-title">UI/UX Design</span>
+                                <span class="elementor-title">Hardware Solutions</span>
 
                 <div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80" aria-valuetext="">
                     <div class="elementor-progress-bar" data-max="80" style="width: 80%;">
@@ -283,7 +283,7 @@
                         </div>
                         <div class="elementor-element elementor-element-7b53bb4 elementor-widget elementor-widget-progress" data-id="7b53bb4" data-element_type="widget" data-widget_type="progress.default">
                         <div class="elementor-widget-container">
-                                <span class="elementor-title">Web Developement</span>
+                                <span class="elementor-title">IT INFRASTRUCTURE SOLUTIONS</span>
 
                 <div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="95" aria-valuetext="">
                     <div class="elementor-progress-bar" data-max="95" style="width: 95%;">
@@ -293,6 +293,18 @@
                 </div>
                         </div>
                         </div>
+                        <div class="elementor-element elementor-element-7b53bb4 elementor-widget elementor-widget-progress" data-id="7b53bb4" data-element_type="widget" data-widget_type="progress.default">
+                            <div class="elementor-widget-container">
+                                    <span class="elementor-title">Mobile Solutions</span>
+    
+                    <div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="95" aria-valuetext="">
+                        <div class="elementor-progress-bar" data-max="95" style="width: 92%;">
+                            <span class="elementor-progress-text"></span>
+                                                <span class="elementor-progress-percentage">92%</span>
+                                        </div>
+                    </div>
+                            </div>
+                            </div>
                                 </div>
                             </div>
                 </div>
@@ -476,7 +488,6 @@
 
 <div class="title_ptx">
 
-<p>Aliquam sodales justo sit amet urna auctor scelerisquinterdum leo anet tempus enim and esent egetis hendrerit vel nibh vitae ornar sem velit aliquam facilisivitae finibus risus feslin is hendrerit vel nibh vitae ornar uspendisse consequat quis sem.</p>
 
 </div>
 
@@ -501,12 +512,14 @@
         <div class="service-box-content">
 
             <div class="service-box-title" >
-                <h3> Web Develpment</h3>
+                <h3>Software Solutions</h3>
             </div>
 
             <div class="service-box-desc" >
-                <p>Nullam tincidunt augue eget densis volu tpat, vitae ultri ces lectus and posuere. Duis urna lacus.</p>
-            </div>
+                <p>
+                Directcore Technologies specialize in supply and customization of software solutions that addressesSales, Services, Finance, Operations, Talent, Marketing, Collaboration and Analyticsrequirements for Small, Medium and Large Enterprises
+                
+                </p> </div>
 
                                         <div class="service-btn">
                 <a href="#">
@@ -524,12 +537,13 @@
         <div class="service-box-content">
 
             <div class="service-box-title" >
-                <h3>  QA & Testing</h3>
+                <h3>  Hardware Solution</h3>
             </div>
 
             <div class="service-box-desc" >
-                <p>Nullam tincidunt augue eget densis volu tpat, vitae ultri ces lectus and posuere. Duis urna lacus.</p>
-            </div>
+                <p>At Directcore Technologies, we intimately understand the value of robust, scalable, cost efficient and reliable IT and telecoms hardware products.
+                    We provide end-to-end supply chain solutions for IT & Telecoms value equipment.</p>
+                 </div>
 
                                         <div class="service-btn">
                 <a href="#">
@@ -547,12 +561,14 @@
         <div class="service-box-content">
 
             <div class="service-box-title" >
-                <h3> Mobile Development</h3>
+                <h3>IT Infrastructure  Solutions</h3>
             </div>
 
             <div class="service-box-desc" >
-                <p>Nullam tincidunt augue eget densis volu tpat, vitae ultri ces lectus and posuere. Duis urna lacus.</p>
-            </div>
+                <p>providing fast, seamless connectivity that is essential to business operations, your organization’s business agility is determined by the speed with which it can transform data into information and accelerate communication internally and externally, and network DOWNTIME is a COST your business CAN’T afford! Similarly, organizations face intense pressure to stay agile and responsive to a volatile business environment.
+                   
+                 
+                </p></div>
 
                                         <div class="service-btn">
                 <a href="#">
@@ -570,12 +586,12 @@
         <div class="service-box-content">
 
             <div class="service-box-title" >
-                <h3>UI/UX Design</h3>
+                <h3>Mobile Solutions</h3>
             </div>
 
             <div class="service-box-desc" >
-                <p>Nullam tincidunt augue eget densis volu tpat, vitae ultri ces lectus and posuere. Duis urna lacus.</p>
-            </div>
+                <p>Directcore Technologies recognizes that modern businesses must be powered by speed, flexibility convenience, reliability and security.
+                    We develop bespoke mobile solutions and have developed mobile banking solutions in addition to providing Mobile Value Add Services (Mobile VAS).</p> </div>
 
                                         <div class="service-btn">
                 <a href="#">
@@ -692,7 +708,8 @@ jQuery(document).ready(function() {
                         </div>
 
 
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>We have been delivering
+                            software development services to a wide rangeof clients for many years.</p>
 
 
                     </div>

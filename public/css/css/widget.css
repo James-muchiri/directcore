@@ -73,7 +73,7 @@ height:800px;
 .dreamit-slick-slider .hero-text-wrap .btn{
 	font-size: 17px;
 	color:#fff;
-	background: #f88d1b;
+	background: #0c5c99;
 	padding: 12px 32px;
 	-webkit-animation: 1s 2s fadeInUp both;
 	animation: 1s 2s fadeInUp both;
@@ -89,8 +89,8 @@ height:800px;
     margin: 0 7px 0;
 }
 .dreamit-slick-slider .hero-text-wrap .btn:hover{
-	 background: #fff;
-    color: #f88d1b;
+	 background: #f88d1b;
+    color: #fff;
 }
 
 .btn-md.btn-animated-none.btn-two {
@@ -1742,7 +1742,7 @@ Service Box
 	z-index: -1;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
-	background: #f88d1b;
+	background: #0c5c99;
 }
 .service-box.service-style-two:hover::before{
 	height:100%;
