@@ -487,7 +487,7 @@ results whereas robust.</p>
     <div class="elementor-element elementor-element-aa4b8df elementor-widget elementor-widget-sectiontitle" data-id="aa4b8df" data-element_type="widget" data-widget_type="sectiontitle.default">
 <div class="elementor-widget-container">
 
-<div class="">
+{{-- <div class="">
 
 <div class="section-title t_center">
 
@@ -510,7 +510,7 @@ results whereas robust.</p>
 
 </div>
 
-</div>
+</div> --}}
 
 
 </div>
@@ -519,7 +519,7 @@ results whereas robust.</p>
 <div class="elementor-widget-container">
 
 
-    <div class="em_tab_inner ">
+    {{-- <div class="em_tab_inner ">
         <div class="col-md-12">
             <ul class="em_tab_pils nav nav-pills">
 
@@ -728,7 +728,7 @@ results whereas robust.</p>
                                             </div>
 
 
-    </div>
+    </div> --}}
 
 </div>
 </div>
